@@ -62,7 +62,9 @@ Here are the most useful websites on the Internet that will make you smarter, in
 6. [Dive into Deep Learning](https://d2l.ai/) - An interactive deep learning book with code, math, based on the NumPy interface.
 7. [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again.
 8. [Reverse engineering course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering course by Z0F. Focuses on x64 Windows.
-9. [Library](https://545c.com/dir/7823036-11625293-090948) - some chinese books http://dw.tanamoe.top/admin/files/
+9. [Library](https://545c.com/dir/7823036-11625293-090948) - Some chinese books http://dw.tanamoe.top/admin/files/
+10.[HN Academy](https://yahnd.com/academy/) - The best online courses of Hacker News
+
 
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
