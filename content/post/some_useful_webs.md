@@ -83,6 +83,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 16. [Free for dev](https://github.com/ripienaar/free-for-dev) - Requirement for tools on that list is having some kind of free plan
 17. [Pastemagic](https://pastemagic.com/) - Convert clipboard text to paste into your word processor just the way you want.
 18. [Regex Cheatsheet](https://ihateregex.io/) - Regex Cheatsheet
+19. [Stackedit.io](https://stackedit.io/app#) -  In-browser Markdown editor
 
 ## Others
 
