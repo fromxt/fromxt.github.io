@@ -64,6 +64,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 8. [Reverse engineering course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering course by Z0F. Focuses on x64 Windows.
 9. [Library](https://545c.com/dir/7823036-11625293-090948) - Some chinese books http://dw.tanamoe.top/admin/files/
 10. [HN Academy](https://yahnd.com/academy/) - The best online courses of Hacker News
+11. [Teach Yourself CS](https://teachyourselfcs.com/) - Teach Yourself Computer Science
 
 
 ## Tools
