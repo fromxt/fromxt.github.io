@@ -65,6 +65,8 @@ Here are the most useful websites on the Internet that will make you smarter, in
 9. [Library](https://545c.com/dir/7823036-11625293-090948) - Some chinese books http://dw.tanamoe.top/admin/files/
 10. [HN Academy](https://yahnd.com/academy/) - The best online courses of Hacker News
 11. [Teach Yourself CS](https://teachyourselfcs.com/) - Teach Yourself Computer Science
+12. [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g1e301fae90_1_576
+) - Jason's Machine Learning 101
 
 
 ## Tools
