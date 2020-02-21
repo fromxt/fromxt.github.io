@@ -96,7 +96,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 2. [Wallpaperscraft](https://wallpaperscraft.com) - Download all background images for free,supporting all sorts of resolution 
 3. [Openload](https://openload.co) - Give any user the opportunity to share any file(such as video)completly free !
 4. [glyptodon.com](https://demo.glyptodon.com) -  Free 20 minutes Windows 10 Server 2016 trial
-5. [Trumpnews](http://www.trump-news.today) - An aggregation of headlines, tweets, and video relating to  Donald Trump.
+5. [Trumpnews](http://www.trump-news.today) - An aggregation of headlines, tweets relating to Donald Trump. - http://trump-today.news/
 6. [Google-alternatives](https://restoreprivacy.com/google-alternatives/) - A list of alternatives to all Google products
 7. [Searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances) - List of public Searx instances
 8. [PHP Proxy](https://vu.qnid.cc/) - A web sites powered by PHP-Proxy 5.1.0. - https://52proxy.fun/ - https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://proxy.emildeveloping.com/ - https://www.littlepotato.life/mirror/ - https://dz.9shi.cf/
