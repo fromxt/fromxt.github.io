@@ -1,5 +1,5 @@
 ---
-title: "YDJSY：Get Started - 2nd Edition Practice "
+title: "YDJSY：get started -2nd Practice "
 date: 2020-02-28
 categories:
   - "computer"
