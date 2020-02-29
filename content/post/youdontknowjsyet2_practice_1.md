@@ -1,3 +1,12 @@
+---
+title: "YDJSY：Get Started - 2nd Edition Practice "
+date: 2020-02-28
+categories:
+  - "computer"
+tags:
+  - "javascript"
+---
+
 # You Don't Know JS Yet: Get Started - 2nd Edition
 # Appendix B: Practice, Practice, Practice!
 
