@@ -31,3 +31,6 @@ On that note, some people choose to marry on February 29 because it is an unusua
 But some ancient peoples would likely tell couples not to do it. Leap years were believed to be difficult, and leap days unlucky and a bad time to begin anything new.
 
 Whatever you think about them, the change in the calendar will be gone soon enough. Then we can return to normal, and leap over February 29 as usual.
+
+## Refrence
+- https://learningenglish.voanews.com/a/why-is-2020-called-a-leap-year-/5284218.html
