@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Today we are talking about the somewhat unusual day of February 29. It comes up on the calendar only every four years. A year with a February 29 might be [good news](https://www.paleyrothman.com/print/legal-blog/the-payroll-leap-year-what-it-is-and-what-to-do-about-it) if you are paid by the day or the week. But it might be bad news if you were born on a February 29. You have to wait three years in between birthdays!
+Today we are talking about the somewhat unusual day of February 29. It comes up on the calendar only every four years. A year with a February 29 might be [good news](https://www.paleyrothman.com/print/legal-blog/the-payroll-leap-year-what-it-is-and-what-to-do-about-it) if you are paid by the day or the week. But it might be bad news if you were born on a February 29. You have to wait three years in between birthdays.
 
 In any case, American English has a term for the unusual situation. February 29 is called a leap day. And the entire 12 month period with a February 29 in it is called a leap year. This year, 2020, is such a year.
 
