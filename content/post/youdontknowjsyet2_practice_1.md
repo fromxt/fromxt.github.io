@@ -7,9 +7,6 @@ tags:
   - "javascript"
 ---
 
-# You Don't Know JS Yet: Get Started - 2nd Edition
-# Appendix B: Practice, Practice, Practice!
-
 After finish the `Get Started` study, I try to do some exercises to acquire a better understanding. In this appendix, These are just to *get you started* with practice over the concepts from the book.
 
 ## Practicing Comparisons
