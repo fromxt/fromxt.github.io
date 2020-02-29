@@ -1,7 +1,7 @@
 # You Don't Know JS Yet: Get Started - 2nd Edition
 # Appendix B: Practice, Practice, Practice!
 
-After finishing the `Get Started` study, I try to complete these exercises. In this appendix, we'll explore some exercises and their suggested solutions. These are just to *get you started* with practice over the concepts from the book.
+After finish the `Get Started` study, I try to do some exercises to acquire a better understanding. In this appendix, These are just to *get you started* with practice over the concepts from the book.
 
 ## Practicing Comparisons
 
