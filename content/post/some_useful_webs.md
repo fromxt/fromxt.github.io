@@ -68,6 +68,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 12. [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g1e301fae90_1_576
 ) - Jason's Machine Learning 101
 13. [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS) - A good book for learning JavaScript.
+14. [Privacytools](https://forum.privacytools.io/) - Privacy tools.
 
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
