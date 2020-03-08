@@ -117,3 +117,4 @@ Here are the most useful websites on the Internet that will make you smarter, in
 20. [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 21. [Podder](https://podder.app)- Podder is a simple podcast player for both desktop and phones.
 22. [ADS-B Exchange](https://tar1090.adsbexchange.com/?icao=7814fc) -Co-op of unfiltered flight data.
+23. [DNS](https://kb.adguard.com/en/general/dns-providers) - Known DNS Providers
