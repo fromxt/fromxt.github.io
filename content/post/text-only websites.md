@@ -74,7 +74,8 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [Cliqz](https://beta.cliqz.com/) - It’s built end-to-end from collecting, crawling, and analyzing data up to actually showing results all this with privacy by design.
 - [DevURLs](https://devurls.com/) - Read programming news from the most popular programming websites in one place.
 - [Wiby.me](https://wiby.me/) -A search engine for 'classic websites',which's simple and meets the criteria (not a lot js/css)
-
+- [Swisscows](https://swisscows.ch/) -Swisscows ist die datensichere Google-Alternative. 
+swisscows
 
 
 ## License
