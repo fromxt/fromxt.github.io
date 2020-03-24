@@ -99,6 +99,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 19. [Stackedit.io](https://stackedit.io/app#) -  In-browser Markdown editor
 20. [Y2b](https://y2b.treant.me/) - Download youtube mp4 and caption. - https://y2b.githmb.com/index.html
 21. [Unscreen](https://www.unscreen.com/) – Remove Video and GIF Backgrounds.
+22  [Jitsi Meet](https://meet.jitsi.net/) - An open source alternative to Zoom (jitsi.net)
 
 ## Others
 
