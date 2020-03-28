@@ -100,6 +100,8 @@ Here are the most useful websites on the Internet that will make you smarter, in
 21. [Unscreen](https://www.unscreen.com/) – Remove Video and GIF Backgrounds.
 22. [Jitsi Meet](https://meet.jitsi.net/) - An open source alternative to Zoom (jitsi.net)
 23. [Palava.tv](https://palava.tv) - Simplistic video communication with your friends and colleagues from within your web browser
+24. [Screenshots ](https://screenshot.simplecto.com/) - Make a website screenshot. 
+
 
 ## Others
 
@@ -126,3 +128,4 @@ Here are the most useful websites on the Internet that will make you smarter, in
 21. [Podder](https://podder.app)- Podder is a simple podcast player for both desktop and phones.
 22. [ADS-B Exchange](https://tar1090.adsbexchange.com/?icao=7814fc) -Co-op of unfiltered flight data.
 23. [DNS](https://kb.adguard.com/en/general/dns-providers) - Known DNS Providers
+24. [TODAY’S FRONT PAGES](https://www.newseum.org/todaysfrontpages/) - Today’s Front Pages of News.
