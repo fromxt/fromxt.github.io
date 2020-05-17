@@ -76,7 +76,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 15. [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - This is a collection of lectures and labs Linux kernel topics.
 16. [MapFilterFold](https://mapfilterfold.com/) - Meta(Books,Threads,Podcasts) recommendations from HN.
 17. [Jitsi Architecture](https://www.aosabook.org/en/jitsi.html) – legacy desktop application (2011)
-
+18. [ZLibrary](https://b-ok.cc/) – Part of Z-Library project. The world's largest ebook library.
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
 2. [Tresorit Send](https://send.tresorit.com/) - Send files easily with end-to-end encryption.
