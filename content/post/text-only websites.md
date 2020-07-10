@@ -33,8 +33,10 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [Jimmyr](http://www.jimmyr.com/) - A mashup of the best sites on the internet integrated into one page.
 - [Newshound](https://www.newshound.co/editions/en-us/) - Daily news from around the world.
 - [Zaqs](https://www.zaqs.org/home.html) - A customizable news aggregator website and search engine.
+- [Hvper](https://www.hvper.com/) - The Internet on one page. Successor of Popurls(r).
 - [Tildes](https://tildes.net/) -  A non-profit community site driven by its users' interests 
 - [FinURLs](https://finurls.com/) -World's simplest finance and business news aggregator
+https://www.hvper.com/
 - [Readspike](https://readspike.com/) - A news aggregator
 - [AllTop](https://alltop.com/) - AllTop's Most Popular Sites around the Internet
 - [SkimFeed](http://skimfeed.com/) - Tech News aggregator
