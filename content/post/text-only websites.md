@@ -76,8 +76,8 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [Wiby.me](https://wiby.me/) -A search engine for 'classic websites',which's simple and meets the criteria (not a lot js/css)
 - [Swisscows](https://swisscows.ch/) -Swisscows ist die datensichere Google-Alternative. 
 swisscows
-
-
+- [Runnaroo](https://www.runnaroo.com/) -A new search engine (runnaroo.com)
+- [Yetigogo.com](https://yetigogo.com/) -A news search engine,include the 100 most popular US news sites. Clutter-free and in real-time.
 ## License
 
 ![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)
