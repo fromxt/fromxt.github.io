@@ -102,7 +102,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 22. [Jitsi Meet](https://meet.jitsi.net/) - An open source alternative to Zoom (jitsi.net)
 23. [Palava.tv](https://palava.tv) - Simplistic video communication with your friends and colleagues from within your web browser
 24. [Screenshots ](https://screenshot.simplecto.com/) - Make a website screenshot. 
-
+25. [swisstransfer ](https://www.swisstransfer.com/) - Allows you to send up to 50 GB of data at once, free of charge and without registration. 
 
 ## Others
 
