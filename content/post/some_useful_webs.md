@@ -103,6 +103,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 23. [Palava.tv](https://palava.tv) - Simplistic video communication with your friends and colleagues from within your web browser
 24. [Screenshots ](https://screenshot.simplecto.com/) - Make a website screenshot. 
 25. [swisstransfer ](https://www.swisstransfer.com/) - Allows you to send up to 50 GB of data at once, free of charge and without registration. 
+26. [Gate one ](http://ssh.8wf.net:61670/) - SSH tool. - https://lvps.net/
 
 ## Others
 
@@ -130,3 +131,4 @@ Here are the most useful websites on the Internet that will make you smarter, in
 22. [ADS-B Exchange](https://tar1090.adsbexchange.com/?icao=7814fc) -Co-op of unfiltered flight data.
 23. [DNS](https://kb.adguard.com/en/general/dns-providers) - Known DNS Providers
 24. [TODAY’S FRONT PAGES](https://www.newseum.org/todaysfrontpages/) - Today’s Front Pages of News.
+25. [RedditBox](https://redditbox.us/) - View Reddit on SSH or Telnet. 
