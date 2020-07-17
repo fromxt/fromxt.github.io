@@ -77,6 +77,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 16. [MapFilterFold](https://mapfilterfold.com/) - Meta(Books,Threads,Podcasts) recommendations from HN.
 17. [Jitsi Architecture](https://www.aosabook.org/en/jitsi.html) – legacy desktop application (2011)
 18. [ZLibrary](https://b-ok.cc/) – Part of Z-Library project. The world's largest ebook library.
+
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
 2. [Tresorit Send](https://send.tresorit.com/) - Send files easily with end-to-end encryption.
@@ -107,7 +108,6 @@ Here are the most useful websites on the Internet that will make you smarter, in
 27. [Archive.today](https://archive.vn/) -  Allows you to create a copy of a webpage that will always be up even if the original link is down.
 
 ## Others
-
 1. [Socew](http://www.socew.cn/) - Free MP3 Music Downloads Site
 2. [Wallpaperscraft](https://wallpaperscraft.com) - Download all background images for free,supporting all sorts of resolution 
 3. [Openload](https://openload.co) - Give any user the opportunity to share any file(such as video)completly free !
