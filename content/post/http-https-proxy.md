@@ -1,5 +1,5 @@
 ---
-title: "How does HTTP&HTTPS Proxy work "
+title: "How does HTTP and HTTPS Proxies Work "
 date: 2020-08-18T13:34:29+08:00
 categories:
   - "computer"
@@ -14,4 +14,3 @@ HTTPS proxy is a relayer, which receives special HTTP request (CONNECT verb) and
 Proxy connection of https communication.
 
 ![https_proxy](https://milestone-of-se.nesuke.com/wp-content/uploads/2018/05/en-proxy-2.png)
-
