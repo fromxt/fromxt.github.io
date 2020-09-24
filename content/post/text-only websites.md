@@ -81,6 +81,8 @@ https://www.hvper.com/
 swisscows
 - [Runnaroo](https://www.runnaroo.com/) -A new search engine (runnaroo.com)
 - [Yetigogo.com](https://yetigogo.com/) -A news search engine,include the 100 most popular US news sites. Clutter-free and in real-time.
+- [Golinxy](https://golinxy.com/) -A search engine which creates feeds based on multiple input search phrases.
+
 ## License
 
 ![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)
