@@ -4,6 +4,7 @@ categories:
   - "Miscellaneous"
 tags:
   - "Firefox"
+  
 ---
 
 As many of you have probably seen, Firefox launched their encrypted file sharing system, However the service is discontinued right now, I'll share your curated sharing tools which have a client-side encryption feature.
