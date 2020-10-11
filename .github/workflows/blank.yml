@@ -28,4 +28,5 @@ jobs:
         publish_branch: master
         publish_dir: ./public
         force_orphan: true
+        cname: canary.best
         #keep_files: true
