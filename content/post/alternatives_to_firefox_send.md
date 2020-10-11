@@ -36,7 +36,7 @@ As many of you have probably seen, Firefox launched their encrypted file sharing
 
 9. [Hat.sh](https://hat.sh/) (no limit since files aren't uploaded to a server) 
 
-   It's a js to en/decrypt files localy but not to send them,so you'll have to find another way to send them, but they'd be client-side encrypted. The other person would use it    as well to decrypt the file, which is to say you can use any cloud storage to share the file.
+   It's a js to en/decrypt files localy but not to send them,so you'll have to find another way to send them, but they'd be client-side encrypted. The other person would use it    as well to decrypt the file,which is to say you can use any cloud storage to share the file.
 
 10. [Filetransfer](https://filetransfer.io/)
 
