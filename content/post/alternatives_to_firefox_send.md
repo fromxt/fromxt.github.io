@@ -1,5 +1,5 @@
 ---
-title: "Alternatives to Firefox Send"
+title: Alternatives to Firefox Send
 categories:
   - "Miscellaneous"
 tags:
