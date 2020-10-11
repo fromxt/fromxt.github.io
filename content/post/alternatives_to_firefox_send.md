@@ -10,9 +10,9 @@ tags:
 As many of you have probably seen, Firefox launched their encrypted file sharing system, However the service is discontinued right now, I'll share your curated sharing tools which have a client-side encryption feature.You can find a similar service hosted by structures in which we have trust by going to the following sites:
 <!--more-->
 
-1. [Hat.sh](https://hat.sh/) (no limit since files aren't uploaded to a server) 
+1. [Chapril](https://drop.chapril.org/) 👍
 
-   It's a js to en/decrypt files localy but not to send them,so you'll have to find another way to send them, but they'd be client-side encrypted. The other person would use it    as well to decrypt the file, which is to say you can use any cloud storage to share the file.
+   An instance of [Send](https://github.com/mozilla/send), Encrypt and send files with a link that automatically expires.
 
 2. Public instances of [Lufi](https://github.com/ldidry/lufi)
 
@@ -34,9 +34,9 @@ As many of you have probably seen, Firefox launched their encrypted file sharing
 
    Send files up to 20GB,No sign up required,Unlimited downloads,This feature is only available in SendGB.
 
-9. [Chapril](https://drop.chapril.org/) 👍
+9. [Hat.sh](https://hat.sh/) (no limit since files aren't uploaded to a server) 
 
-   An instance of [Send](https://github.com/mozilla/send), Encrypt and send files with a link that automatically expires.
+   It's a js to en/decrypt files localy but not to send them,so you'll have to find another way to send them, but they'd be client-side encrypted. The other person would use it    as well to decrypt the file, which is to say you can use any cloud storage to share the file.
 
 10. [Filetransfer](https://filetransfer.io/)
 
