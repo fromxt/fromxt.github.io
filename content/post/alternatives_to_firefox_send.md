@@ -40,6 +40,6 @@ As many of you have probably seen, Firefox launched their encrypted file sharing
 
 10. [Filetransfer](https://filetransfer.io/)
 
-   WeTransfer is the simplest way to send your files around the world. Share large files up to 2GB for free.
+    WeTransfer is the simplest way to send your files around the world. Share large files up to 2GB for free.
 
 At last,You can self host Send,which is all open source https://github.com/mozilla/send.
