@@ -1,5 +1,5 @@
 ---
-title: "How does HTTP and HTTPS Proxies Work "
+title: "How does Http and Https proxies work "
 date: 2020-08-18T13:34:29+08:00
 categories:
   - "computer"
