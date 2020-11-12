@@ -107,7 +107,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 23. [Palava.tv](https://palava.tv) - Simplistic video communication with your friends and colleagues from within your web browser
 24. [Screenshots ](https://screenshot.simplecto.com/) - Make a website screenshot. 
 25. [swisstransfer](https://www.swisstransfer.com/) - Allows you to send up to 50 GB of data at once, free of charge and without registration. 
-26. [Gate one](http://ssh.8wf.net:61670/) - SSH tool. - https://lvps.net/
+26. [Gate one](http://ssh.8wf.net:61670/) - SSH tool. - https://ssh.sdf.org:4443 /https://lvps.net/
 27. [Archive.today](https://archive.vn/) -  Allows you to create a copy of a webpage that will always be up even if the original link is down.
 28. [ISOlation.SITE](https://isolation.site/) -  A secure browser you embed in your webapp.
 
