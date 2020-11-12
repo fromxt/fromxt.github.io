@@ -137,3 +137,4 @@ Here are the most useful websites on the Internet that will make you smarter, in
 23. [DNS](https://kb.adguard.com/en/general/dns-providers) - Known DNS Providers
 24. [TODAY’S FRONT PAGES](https://www.newseum.org/todaysfrontpages/) - Today’s Front Pages of News.
 25. [RedditBox](https://redditbox.us/) - View [Reddit](https://quickssh-hongkong-id01.lvps.net/hongkong/(S(qd34alprmjus0x0s3nekajch))/) on SSH or Telnet. 
+26. [Whoogle(https://whoogle.sdf.org/) - It has Google results but Whoogle is more like Google.
