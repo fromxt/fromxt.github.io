@@ -15,27 +15,30 @@ Proxy Auto-Configuration (PAC) is a method used by Web browsers to select a prox
 # How PAC Files Work
 
 1. Direct all traffic through the first proxy. If it is unreachable, use the second proxy. If both are unavailable go direct:
+```js
 
 function FindProxyForURL(url, host) {
    return "PROXY proxy1.my.com:8080; PROXY
    proxy2.my.com:8080; DIRECT"; }
-
+```
 2. Direct HTTP traffic as in the first example, but send all HTTPS traffic direct:
-
+```js
 function FindProxyForURL(url, host) {
    if (url.substring(0,6)=="https:") return 
    "DIRECT"; else return "PROXY
    proxy1.my.com:8080; PROXY
    proxy2.my.com:8080; DIRECT"; }
-
+```
 3. Direct all traffic as in the first example, but send traffic for a given domain direct:
+```js
 
 function FindProxyForURL(url, host) {
    if (host=="my.com") return "DIRECT"; else
    return "PROXY proxy1.my.com:8080; PROXY
    proxy2.my.com:8080; DIRECT"; }
-
+```
 4. If the client computer is on the specified internal network, go through the proxy. Otherwise go direct:
+```js
 
 function FindProxyForURL(url, host) {
    if (isInNet(myIPaddress(), "192.168.1.0",
@@ -43,8 +46,9 @@ function FindProxyForURL(url, host) {
    proxy1.my.com:8080; PROXY 
    proxy2.my.com:8080; DIRECT"; else return
    "DIRECT"; }
-
+```
 # Example PAC File
+```js
 
 function FindProxyForURL(url, host) {
 // Web sites you wish to go to direct and not through the Web Scanning Services. This 
@@ -65,6 +69,7 @@ isInNet (host, "xxx.xxx.xxx.xxx",
 else { return
 "PROXY proxy.example1.com:8080"; } }
 
+```
 
 # Configuring Google Chrome to Use a PAC File
 
