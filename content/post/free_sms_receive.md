@@ -24,21 +24,16 @@ Many web services nowadays require a phone verification system. They send a veri
 - [Smstools.online](https://smstools.online) - https://smstools.online  
 - [Simonline.su](https://simonline.su/) - https://simonline.su/ - *Ukraine Kiev*
 - [Pdflibr.com](https://www.pdflibr.com) - https://www.pdflibr.com
-- [Smszk](http://www.smszk.com/) - http://www.smszk.com/
-- [Sms.cngrok.com](https://sms.cngrok.com/receiving-sms) - https://sms.cngrok.com/receiving-sms
-- [Becmd.com](https://www.becmd.com/) - https://www.becmd.com/
+- ~~[Smszk](http://www.smszk.com/) - http://www.smszk.com/
+- ~~[Sms.cngrok.com](https://sms.cngrok.com/receiving-sms) - https://sms.cngrok.com/receiving-sms
 - [Yunduanxin.net](https://yunduanxin.net/) - https://yunduanxin.net/
-- [Cnwml.com](https://www.cnwml.com/) - https://www.cnwml.com/
 - [Shejiinn.com](http://www.114sim.com) - http://www.shejiinn.com/
 - [Blacktel.io](https://www.blacktel.io/) - https://www.blacktel.io/
-- [Visitorsms.com](https://www.visitorsms.com/) - https://www.visitorsms.com/
-- [Shouduanxin.com](https://shouduanxin.com) - https://shouduanxin.com
-- [Sms.bilulanlv](https://sms.bilulanlv.com/) - https://sms.bilulanlv.com/
+- [Materialtools](https://www.materialtools.com/) - https://www.materialtools.com/
 - [Sms24.me](https://sms24.me/) - https://sms24.me/
 - [Mianfeijiema](https://mianfeijiema.com/) - https://mianfeijiema.com/
-- [Sms00](https://www.sms00.com/) - https://www.sms00.com/
-- [Jmapingtai](http://jmapingtai.com/) - http://jmapingtai.com/
-- [mffac](https://www.mffac.com/) - https://www.mffac.com/
+- [Bfkdim](https://www.bfkdim.com/) - https://www.bfkdim.com/
+- [Temporary-phone-number](https://temporary-phone-number.com/) - https://temporary-phone-number.com/
 - [It233.com](http://www.it233.com/sms) - http://www.it233.com/sms
 
 
