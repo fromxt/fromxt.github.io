@@ -16,7 +16,6 @@ Proxy Auto-Configuration (PAC) is a method used by Web browsers to select a prox
 
 1. Direct all traffic through the first proxy. If it is unreachable, use the second proxy. If both are unavailable go direct:
 ```js
-
 function FindProxyForURL(url, host) {
    return "PROXY proxy1.my.com:8080; PROXY
    proxy2.my.com:8080; DIRECT"; }
@@ -39,7 +38,6 @@ function FindProxyForURL(url, host) {
 ```
 4. If the client computer is on the specified internal network, go through the proxy. Otherwise go direct:
 ```js
-
 function FindProxyForURL(url, host) {
    if (isInNet(myIPaddress(), "192.168.1.0",
    "255.255.255.0")) return "PROXY
@@ -49,7 +47,6 @@ function FindProxyForURL(url, host) {
 ```
 # Example PAC File
 ```js
-
 function FindProxyForURL(url, host) {
 // Web sites you wish to go to direct and not through the Web Scanning Services. This 
 list would include internally hosted Web sites, intranets, and so on
@@ -86,4 +83,5 @@ else { return
 6. Click OK to save the configuration.
 
 
-The reference contains details info https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_PAC_file#description
+# The reference 
+1. https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_PAC_file#description
