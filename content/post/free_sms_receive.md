@@ -24,8 +24,6 @@ Many web services nowadays require a phone verification system. They send a veri
 - [Smstools.online](https://smstools.online) - https://smstools.online  
 - [Simonline.su](https://simonline.su/) - https://simonline.su/ - *Ukraine Kiev*
 - [Pdflibr.com](https://www.pdflibr.com) - https://www.pdflibr.com
-- ~~[Smszk](http://www.smszk.com/) - http://www.smszk.com/
-- ~~[Sms.cngrok.com](https://sms.cngrok.com/receiving-sms) - https://sms.cngrok.com/receiving-sms
 - [Yunduanxin.net](https://yunduanxin.net/) - https://yunduanxin.net/
 - [Shejiinn.com](http://www.114sim.com) - http://www.shejiinn.com/
 - [Blacktel.io](https://www.blacktel.io/) - https://www.blacktel.io/
