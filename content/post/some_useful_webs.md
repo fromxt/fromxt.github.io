@@ -36,11 +36,11 @@ Here are the most useful websites on the Internet that will make you smarter, in
 
 ## Android App Download
 
-1. [*Apkpure*](https://vu.qnid.cc/index.php?q=aHR0cHM6Ly9hcGtwdXJlLmNvbS8) - Download apk for Android with APKPure APK downloader. 
+1. [*Apkpure*](https://free.carrade.eu/index.php?1a8465=49288727ed96169751163b23a9cf0a466d9ad1c8aHR0cHM6Ly9hcGtwdXJlLmNvbS8%3D) - Download apk for Android with APKPure APK downloader. 
 2. [Androidappsapk](https://androidappsapk.co/) - Download APK Android Apps, Games, Themes, Live Wallpapers, Widgets.
 3. [Apktools](https://apk.tools/) - APK Downloader Tools, Extractor Tools, Verification Tools
 4. [Ifttt](https://ifttt.com/) - IFTTT (if this, then that) is the easy, free way to get your apps and devices working together. 
-5. [APKMirror](https://go.goso.workers.dev/-----https://www.apkmirror.com/) - Download Free Android APKs #APKPLZ
+5. [APKMirror](https://52proxy.xyz/index.php?q=https%3A%2F%2Fwww.apkmirror.com%2F) - Download Free Android APKs #APKPLZ
 6. [Apk2down](https://apk2down.com/apk-downloader/) - Downloading APK & OBB Files Directly from Google Play Store
 7. [Apkdl](https://apkdl.in/) - Download latest version of android apps and games
 8. [Apkcombo](https://apkcombo.com) - Download APK latest version, older versions, new releases, games & apps Android Google Play Store.
