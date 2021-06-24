@@ -121,7 +121,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 7. [Searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances) - List of public Searx instances
 8. [PHP Proxy](https://free.carrade.eu/) - A web sites powered by PHP-Proxy 5.10.0. - ~~https://52proxy.fun/~~ ~~- https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://proxy.emildeveloping.com/ - https://www.littlepotato.life/mirror/ - https://dz.9shi.cf/~~
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
-10. [Google](https://js.zmirror.xyz/-----https://www.google.com/) - google.com.jp
+10. [Google Proxy](https://go-xyz.xyz/)- Google reverse proxy.
 11. [CFproxy](https://proxy.51sec.org/) - Build jsproxy on Cloudflare Worker.
 12. [JSproxy](https://52proxy.xyz/) - hk proxy
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
