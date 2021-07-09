@@ -36,7 +36,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 
 ## Android App Download
 
-1. [*Apkpure*](https://free.carrade.eu/index.php?1a8465=49288727ed96169751163b23a9cf0a466d9ad1c8aHR0cHM6Ly9hcGtwdXJlLmNvbS8%3D) - Download apk for Android with APKPure APK downloader. 
+1. [*Apkpure*](https://fb0bbbd79e88eff797be4c61cc43cb2c.cloudflareworkers.com/) - Download apk for Android with APKPure APK downloader. 
 2. [Androidappsapk](https://androidappsapk.co/) - Download APK Android Apps, Games, Themes, Live Wallpapers, Widgets.
 3. [Apktools](https://apk.tools/) - APK Downloader Tools, Extractor Tools, Verification Tools
 4. [Ifttt](https://ifttt.com/) - IFTTT (if this, then that) is the easy, free way to get your apps and devices working together. 
@@ -121,7 +121,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 7. [Searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances) - List of public Searx instances
 8. [PHP Proxy](https://free.carrade.eu/) - A web sites powered by PHP-Proxy 5.10.0. - ~~https://52proxy.fun/~~ ~~- https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://proxy.emildeveloping.com/ - https://www.littlepotato.life/mirror/ - https://dz.9shi.cf/~~
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
-10. [Google Proxy](https://go-xyz.xyz/)- Google reverse proxy.
+10. [Google Proxy](https://go-xyz.xyz/)- Google reverse proxy. https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://www.google.com
 11. [CFproxy](https://proxy.51sec.org/) - Build jsproxy on Cloudflare Worker.
 12. [JSproxy](https://52proxy.xyz/) - hk proxy
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
