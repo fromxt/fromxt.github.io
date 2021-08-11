@@ -82,7 +82,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 18. [ZLibrary](https://b-ok.cc/) – Part of Z-Library project. The world's largest ebook library.
 
 ## Tools
-1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser.
+1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser. 
 2. [Tresorit Send](https://send.tresorit.com/) - Send files easily with end-to-end encryption.
 3. [PrivnoteSend](https://privnote.com/) - PrivnoteSend notes that will self-destruct after being read.
 4. [Anonfiles](https://anonfiles.com/) - Upload your files anonymously and free on AnonFiles.
@@ -93,7 +93,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 9. [Pastebin](https://paste.ubuntu.com/) - A website where you can store text online for a set period of time
 10. [Pdfcyborg](https://pdfcyborg.com/) - Convert any web page into a pdf document
 11. [Conversejs](https://conversejs.org/fullscreen.html) - Web-based XMPP/Jabber chat client written in JavaScript.
-12. ~~[Chot.xyz](https://chot.xyz/) - Chat instantly without distractions,private,for free.~~
+12. [Send](https://send.silkky.cloud/) - Simple, private file sharing. Send lets you share files with end-to-end encryption and a link that automatically expires.
 13. [ComparePDF](https://www.parepdf.com/) - Compare pdfs quickly and easily
 14. [Removebackground](https://www.remove.bg/) - This free online tool uses AI to quickly remove the background from images. 
 15. [Framapic](https://framapic.org/) - Privacy-friendly libre photo sharing service, run by French privacy campaigners Framasoft.
