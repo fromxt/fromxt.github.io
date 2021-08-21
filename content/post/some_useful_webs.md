@@ -36,7 +36,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 
 ## Android App Download
 
-1. [*Apkpure*](https://fb0bbbd79e88eff797be4c61cc43cb2c.cloudflareworkers.com/) - Download apk for Android with APKPure APK downloader. 
+1. [*Apkpure*](https://proxy.justyy.com/-----https://apkpure.com/cn/) - Download apk for Android with APKPure APK downloader. 
 2. [Androidappsapk](https://androidappsapk.co/) - Download APK Android Apps, Games, Themes, Live Wallpapers, Widgets.
 3. [Apktools](https://apk.tools/) - APK Downloader Tools, Extractor Tools, Verification Tools
 4. [Ifttt](https://ifttt.com/) - IFTTT (if this, then that) is the easy, free way to get your apps and devices working together. 
