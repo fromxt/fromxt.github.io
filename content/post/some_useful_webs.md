@@ -80,7 +80,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 16. [MapFilterFold](https://mapfilterfold.com/) - Meta(Books,Threads,Podcasts) recommendations from HN.
 17. [Jitsi Architecture](https://www.aosabook.org/en/jitsi.html) – legacy desktop application (2011)
 18. [ZLibrary](https://b-ok.cc/) – Part of Z-Library project. The world's largest ebook library.
-19. [Wikipedia](https://www.wikipedia.iwiki.eu.org/) – Wikipedia proxy.
+19. [Wikipedia](https://www.wikipedia.iwiki.eu.org/) – [Wikipedia proxy](https://wikiless.alefvanoon.xyz/). 
 
 ## Tools
 1. [Send Firefox](https://send.firefox.com/) - A free encrypted file transfer service that allows users to safely and simply share files from any browser. 
