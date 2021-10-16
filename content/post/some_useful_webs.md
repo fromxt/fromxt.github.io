@@ -123,7 +123,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 8. [PHP Proxy](https://free.carrade.eu/) - A web sites powered by PHP-Proxy 5.10.0. - ~~https://52proxy.fun/~~ ~~- https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://proxy.emildeveloping.com/ - https://www.littlepotato.life/mirror/ - https://dz.9shi.cf/~~
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
 10. [Google Proxy](https://go-xyz.xyz/)- Google reverse proxy. https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://www.google.com
-11. [CFproxy](https://proxy.51sec.org/) - Build jsproxy on Cloudflare Worker.
+11. [CFproxy](https://linkouter.tk/) - Build jsproxy on Cloudflare Worker.
 12. [JSproxy](https://52proxy.xyz/) - hk proxy
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
 14. [Glorp](https://glorp.co/) - Visual search engine
