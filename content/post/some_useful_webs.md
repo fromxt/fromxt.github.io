@@ -45,6 +45,8 @@ Here are the most useful websites on the Internet that will make you smarter, in
 7. [Apkdl](https://apkdl.in/) - Download latest version of android apps and games
 8. [Apkcombo](https://apkcombo.com) - Download APK latest version, older versions, new releases, games & apps Android Google Play Store.
 9. [Downloadapk](https://downloadapk.net/) - https://downloadapk.net/
+10. [Freeroid](https://freeroid.com/) - https://freeroid.com/
+11. [APKlinker](https://www.apklinker.com/) - https://www.apklinker.com/
 
 ## Storage
 1. [オンラインストレージTeraCloud](https://yura.teracloud.jp/dav/) - Large capacity online storage. Fast and comfortable use of Japanese servers. Create an account and get 10 GB free.
