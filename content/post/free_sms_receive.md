@@ -23,7 +23,15 @@ Many web services nowadays require a phone verification system. They send a veri
 - [Smslisten.com](https://smslisten.com/) - https://smslisten.com/
 - [Smstools.online](https://smstools.online) - https://smstools.online  
 - [Simonline.su](https://simonline.su/) - https://simonline.su/ - *Ukraine Kiev*
-- [Pdflibr.com](https://www.pdflibr.com) - https://www.pdflibr.com
+- [uscard](https://www.mecan.vip/) - united kingdom united states canada sms number
+- [australian sms network](https://www.australiasms.com/) - australia united kingdom us sms number
+- [mika](https://www.mecan.cc/) - us sms number
+- [temporary sms network](https://www.tesms.net/) - united states united kingdom canada sms number
+- [cloud sms network](https://www.yunduanxin.org/) - united states canada united kingdom australia japan korea virtual number
+- [online code network](https://www.zaixianjiema.com/) - united states united kingdom canada
+- [disposable sms network](https://www.oncesms.com/) - united states canada united kingdom
+- [us sms network](https://www.usduck.com/) - united states canada united kingdom
+- [mobile phone number network](https://www.shoujihao.com/) - foreign mobile phone sms receiving platform
 - [Yunduanxin.net](https://yunduanxin.net/) - https://yunduanxin.net/
 - [Shejiinn.com](http://www.114sim.com) - http://www.shejiinn.com/
 - [Blacktel.io](https://www.blacktel.io/) - https://www.blacktel.io/
