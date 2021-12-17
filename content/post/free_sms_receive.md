@@ -31,7 +31,6 @@ Many web services nowadays require a phone verification system. They send a veri
 - [online code network](https://www.zaixianjiema.com/) - united states united kingdom canada
 - [disposable sms network](https://www.oncesms.com/) - united states canada united kingdom
 - [us sms network](https://www.usduck.com/) - united states canada united kingdom
-- [mobile phone number network](https://www.shoujihao.com/) - foreign mobile phone sms receiving platform
 - [Yunduanxin.net](https://yunduanxin.net/) - https://yunduanxin.net/
 - [Shejiinn.com](http://www.114sim.com) - http://www.shejiinn.com/
 - [Blacktel.io](https://www.blacktel.io/) - https://www.blacktel.io/
