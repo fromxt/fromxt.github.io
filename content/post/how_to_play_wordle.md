@@ -8,7 +8,7 @@ categories:
 ---
 
 How do I play?
-You can play ![Wordle online](https://opensourcewordle.com/), either on a computer or mobile device, right here.
+You can play [Wordle online](https://opensourcewordle.com/), either on a computer or mobile device, right here.
 
 Start by inputting a five-letter word and hitting enter.
 
