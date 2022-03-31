@@ -50,6 +50,8 @@ https://www.hvper.com/
 - [Tophub.today](https://tophub.today/) - Chinese news aggregator
 - [Duomoyu](https://duomoyu.com) - Chinese news aggregator
 - [Wbur](https://www.wbur.org) - Boston’s NPR News Station
+- [Neuters](https://neuters.de/) - An alternative front-end to Reuters.com.
+- [sumi.news](https://sumi.news/) - All the news, RSS, and newsletters on one page.
 
 
 ## Social
