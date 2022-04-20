@@ -72,7 +72,8 @@ https://www.hvper.com/
 - [DuckDuckGo](https://duckduckgo.com/lite) - A lite version of duckduckgo.com
 - [Qwant](https://www.qwant.com/) - The search engine that respects your privacy
 - [Searx](https://searx.me/) - The search engine that respects your privacy
-- [Outline](https://www.outline.com/) - A free service that removes clutter from websites.
+- ~~[Outline](https://www.outline.com/) - A free service that removes clutter from websites.~~ offline.
+- [Darkread.io](https://www.darkread.io/) -- This website is very similar to outline.com.
 - [Seeres](https://seeres.com) - A Private Search.Engine by Google.
 - [Littlepotato](https://search.littlepotato.life/) - A reverser proxy for Google.
 - [Google mirror ](https://www.littlepotato.life/mirror/) - A reverser proxy for Google.
