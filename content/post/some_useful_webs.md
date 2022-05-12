@@ -113,6 +113,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 26. [Gate one](http://ssh.8wf.net:61670/) - SSH tool. - https://ssh.sdf.org:4443 /https://lvps.net/
 27. [Archive.today](https://archive.vn/) -  Allows you to create a copy of a webpage that will always be up even if the original link is down.
 28. [ISOlation.SITE](https://isolation.site/) -  A secure browser you embed in your webapp.
+29. [Commands.dev](https://www.commands.dev/) - A searchable collection of commands from across the Web.
 
 ## Others
 1. [Socew](http://www.socew.cn/) - Free MP3 Music Downloads Site
