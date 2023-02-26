@@ -31,6 +31,8 @@ Here are the most useful websites on the Internet that will make you smarter, in
 15. [Mailsac](https://mailsac.com/) - Two trackres, one from google-analytics and one from googleapis, open source.
 16. [Spamgourmet](https://www.spamgourmet.com/index.pl) - Not a single tracker, open-source. 
 17. [Inbox Kitten](https://inboxkitten.com/) - Two trackers, onfe from googletagmanager and one from carbonads, open-source and with some cute kittens. 
+18. [Textise]((https://www.textise.net/)) - It’s an internet tool that removes everything from a web page except for its text.. 
+
 
 
 
