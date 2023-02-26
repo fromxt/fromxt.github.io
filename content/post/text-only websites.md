@@ -24,7 +24,7 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 ## News
 
 - [Newsandrumors](https://newsandrumors.com/) - An alternative RSS reader and search engine for news and content 
-- [CNN Lite](http://lite.cnn.io/en) - A lite version of CNN.com
+- [CNN Lite](http://lite.cnn.com/) - A lite version of CNN.com
 - [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
 - [POST Online Media](https://lite.poandpo.com/) - Breaking world news, latest headlines and stories from POST Online Media.
 - [Legible News](https://legiblenews.com/) - Legible news
