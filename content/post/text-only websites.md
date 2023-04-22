@@ -72,7 +72,7 @@ https://www.hvper.com/
 - [DuckDuckGo](https://duckduckgo.com/lite) - A lite version of duckduckgo.com
 - [Qwant](https://www.qwant.com/) - The search engine that respects your privacy
 - [Searx](https://searx.me/) - The search engine that respects your privacy
-- [Txtify](https://txtify.it/)) - Convert web articles to plain text
+- [Txtify](https://txtify.it/) - Convert web articles to plain text
 - [Darkread.io](https://www.darkread.io/) -- This website is very similar to outline.com.
 - [Seeres](https://seeres.com) - A Private Search.Engine by Google.
 - [Google mirror 1](https://pro.jsproxy.cyou/) - A reverser proxy for Google.
