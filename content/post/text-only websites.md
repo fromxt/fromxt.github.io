@@ -28,7 +28,6 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
 - [POST Online Media](https://lite.poandpo.com/) - Breaking world news, latest headlines and stories from POST Online Media.
 - [Legible News](https://legiblenews.com/) - Legible news
-- [Poandpo](https://lite.poandpo.com/) - POST Online Media Lite Edition
 - [Text News](https://txtn.ws/) - All of the news, none of the markup. Text only, Gopher only.
 - [Text-only News](https://textnews.pythonanywhere.com/english) - News aggregator.
 - [F6O’Clock ](https://www.f6oclock.com/) - or the original [F5O’Clock](http://www.f5oclock.com/articles)
