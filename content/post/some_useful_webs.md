@@ -114,21 +114,21 @@ Here are the most useful websites on the Internet that will make you smarter, in
 25. [swisstransfer](https://www.swisstransfer.com/) - Allows you to send up to 50 GB of data at once, free of charge and without registration. 
 26. [Gate one](http://ssh.8wf.net:61670/) - SSH tool. - https://ssh.sdf.org:4443 /https://lvps.net/
 27. [Archive.today](https://archive.vn/) -  Allows you to create a copy of a webpage that will always be up even if the original link is down.
-28. [ISOlation.SITE](https://isolation.site/) -  A secure browser you embed in your webapp.
+28. ~~[ISOlation.SITE](https://isolation.site/) -  A secure browser you embed in your webapp.~~
 29. [Commands.dev](https://www.commands.dev/) - A searchable collection of commands from across the Web.
 
 ## Others
 1. [Socew](http://www.socew.cn/) - Free MP3 Music Downloads Site
 2. [Wallpaperscraft](https://wallpaperscraft.com) - Download all background images for free,supporting all sorts of resolution 
 3. [Openload](https://openload.co) - Give any user the opportunity to share any file(such as video)completly free !
-4. [glyptodon.com](https://demo.glyptodon.com) -  Free 20 minutes Windows 10 Server 2016 trial
+4. ~~[glyptodon.com](https://demo.glyptodon.com) -  Free 20 minutes Windows 10 Server 2016 trial~~
 5. [Trumpnews](http://www.trump-news.today) - An aggregation of headlines, tweets relating to Donald Trump. - http://trump-today.news/
 6. [Google-alternatives](https://restoreprivacy.com/google-alternatives/) - A list of alternatives to all Google products
 7. [Searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances) - List of public Searx instances
 8. [PHP Proxy](https://free.carrade.eu/) - A web sites powered by PHP-Proxy 5.10.0. - ~~https://52proxy.fun/~~ ~~- https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://proxy.emildeveloping.com/ - https://www.littlepotato.life/mirror/ - https://dz.9shi.cf/~~
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
 10. [Google Proxy](https://go-xyz.xyz/)- Google reverse proxy. https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://www.google.com
-11. [CFproxy](https://linkouter.tk/) - Build [jsproxy](https://jsproxy.cyou/) on Cloudflare Worker.
+11. ~~[CFproxy](https://linkouter.tk/) - Build [jsproxy](https://jsproxy.cyou/) on Cloudflare Worker.~~
 12. [JSproxy](https://proxy.itprosec.com/) - jsproxy
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
 14. [Glorp](https://glorp.co/) - Visual search engine
