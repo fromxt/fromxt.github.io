@@ -144,5 +144,5 @@ Here are the most useful websites on the Internet that will make you smarter, in
 24. [TODAY’S FRONT PAGES](https://www.newseum.org/todaysfrontpages/) - Today’s Front Pages of News.
 25. ~~[RedditBox](https://redditbox.us/) - View [Reddit](https://quickssh-hongkong-id01.lvps.net/hongkong/(S(qd34alprmjus0x0s3nekajch))/) on SSH or Telnet.~~
 26. [Whoogle](https://whoogle.sdf.org/) - It has Google results but Whoogle is more like Google.
-27. [Privacy Respecting Software_1](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) - List of free,open source and privacy respecting services and alternatives to privative services
-28. [Rammerhead](https://edu.kolody.net/) - Rammerhead proxy browser 
+27. [Privacy Respecting Software_1](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) - List of privacy respecting services and alternatives to privative services
+28. [Rammerhead](https://edu.kolody.net/) - Rammerhead proxy browser.
