@@ -129,7 +129,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
 10. [Google Proxy](https://go-xyz.xyz/)- Google reverse proxy. https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://www.google.com
 11. [CFproxy](https://linkouter.tk/) - Build [jsproxy](https://jsproxy.cyou/) on Cloudflare Worker.
-12. [JSproxy](https://52proxy.xyz/) - hk proxy
+12. [JSproxy](https://proxy.itprosec.com/) - jsproxy
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
 14. [Glorp](https://glorp.co/) - Visual search engine
 15. [Rg-adguard](https://tb.rg-adguard.net/public.php) - Microsoft Windows ISO Download Tool 
@@ -144,4 +144,5 @@ Here are the most useful websites on the Internet that will make you smarter, in
 24. [TODAY’S FRONT PAGES](https://www.newseum.org/todaysfrontpages/) - Today’s Front Pages of News.
 25. ~~[RedditBox](https://redditbox.us/) - View [Reddit](https://quickssh-hongkong-id01.lvps.net/hongkong/(S(qd34alprmjus0x0s3nekajch))/) on SSH or Telnet.~~
 26. [Whoogle](https://whoogle.sdf.org/) - It has Google results but Whoogle is more like Google.
-27. [Privacy Respecting Software_1](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) - List of free,open source and privacy respecting services and alternatives to privative services 
+27. [Privacy Respecting Software_1](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) - List of free,open source and privacy respecting services and alternatives to privative services
+28. [Rammerhead](https://edu.kolody.net/) - Rammerhead proxy browser 
