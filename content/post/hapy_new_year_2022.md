@@ -9,7 +9,7 @@ categories:
 <!--more-->
 
 Times, both bad and good, will come and go.Lives will be lived and time will move on. I know many people are predicting doom and gloom, but I think we can let the good times roll for new year. 
-Have a wonderful new year everyone!
+Have a wonderful new year everyone!!
 
 
 
