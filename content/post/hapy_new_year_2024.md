@@ -7,6 +7,7 @@ categories:
 
 
 ![avatar](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202312/659152fc7b3a6-new-year-wishes-313518160-16x9.png)
+<!--more-->
 2023 comes to an end, which means another year is closing and a new one will soon begin. It's about that time where many of us reflect on the past year and start thinking of what we would like to accomplish in the year ahead.
 
 One great way to get yourself motivated for a Happy New Year, especially when things have been as tough as they've been worldwide in a year like 2023, is by sharing the best inspirational things you can find.
