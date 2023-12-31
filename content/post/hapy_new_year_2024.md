@@ -1,11 +1,9 @@
 ---
-title: "Goodbye 2023, Hello 2024"
-date: 2024-01-01T00:00:00+08:00
+title: "Happy new year 2024"
+date: 2023-12-31T20:00:00+08:00
 categories:
   - "Miscellaneous"
 ---
-
-Happy New Year 2024!
 
 
 2023 comes to an end, which means another year is closing and a new one will soon begin. It's about that time where many of us reflect on the past year and start thinking of what we would like to accomplish in the year ahead.
