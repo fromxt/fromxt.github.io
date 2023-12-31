@@ -1,6 +1,6 @@
 ---
 title: "How to play Wordle"
-date: 2022-02-03T09:55:20+08:00
+date: 2022-02-03T09:56:20+08:00
 categories:
   - "Miscellaneous"
 tags:
