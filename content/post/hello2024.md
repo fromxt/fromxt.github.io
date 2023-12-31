@@ -17,4 +17,4 @@ We cannot wipe the slate clean before 2024 begins. What we can do is look at the
 
 Farewell 2023 Welcome 2024 …
 
-![avatar](https://blog.gratefulness.me/content/images/size/w1000/2022/12/happy-new-year4_1.jpg)
+![avatar](https://blog.gratefulness.me/content/images/size/w1000/2022/12/happy-new-year5-2.jpg)
