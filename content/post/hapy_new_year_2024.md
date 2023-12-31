@@ -14,7 +14,7 @@ The most inspiring Happy New Year  wishes are those that remind you that no matt
 
 We cannot wipe the slate clean before 2024 begins. What we can do is look at the events of the past year as lessons and opportunities to do and be better as individuals.
 
-Farewell 2023 Welcome 2024 …
+Farewell 2023 Welcome 2024.
 
 ![avatar](https://akm-img-a-in.tosshub.com/businesstoday/images/story/202312/659152fc7b3a6-new-year-wishes-313518160-16x9.png)
 
