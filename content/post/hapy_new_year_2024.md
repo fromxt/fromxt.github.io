@@ -1,6 +1,6 @@
 ---
 title: "Happy new year 2024"
-date: 2023-12-31T20:00:00+08:00
+date: 2024-01-01T00:00:00+08:00
 categories:
   - "Miscellaneous"
 ---
