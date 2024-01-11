@@ -15,12 +15,12 @@ The following steps:
 
 1. Unlock Bootloader,But your device has not to root.
 
-   Steps of detailing:https://www.imobie.com/android-unlock/unlock-bootloader-on-xiaomi.htm
+   Steps of detailing $\Rightarrow$ https://www.imobie.com/android-unlock/unlock-bootloader-on-xiaomi.htm
 
 
 2. Install TWRP Recovery
    
-   Steps of detailinghttps://twrp.me/xiaomi/xiaomiredminote4.html
+   Steps of detailing $\Rightarrow$ https://twrp.me/xiaomi/xiaomiredminote4.html
 
 
 3. Update the modem firmware with TWRP
@@ -30,7 +30,7 @@ The following steps:
 
 5. Reboot the device.
 
-   The "HD" symbol on top of a phone screen typically indicates that the device is unlocked to VoLTE.
+   The "**HD**" symbol on top of a phone screen typically indicates that the device is unlocked to VoLTE.
    
 
 Reference:
