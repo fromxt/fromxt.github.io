@@ -1,5 +1,5 @@
 ---
-title: "How to enable VoLTE on Xiaomi Redmi Note 4X (mido)"
+title: "How to enable VoLTE on Redmi Note 4X (mido)"
 date: 2024-01-11T12:00:00+08:00
 categories:
   - "computer"
@@ -17,14 +17,17 @@ The following steps:
 
    Steps of detailing:https://www.imobie.com/android-unlock/unlock-bootloader-on-xiaomi.htm
 
+
 2. Install TWRP Recovery
    
    Steps of detailinghttps://twrp.me/xiaomi/xiaomiredminote4.html
 
+
 3. Update the modem firmware with TWRP
 
    You can download the custom firmware [HMNote4X_V11.0.2.0_volte_modem](https://f000.backblazeb2.com/file/canicula/HMNote4X_V11.0.2.0_volte_modem.zip) for Redmi Note 4X and copy to your device.
-   
+
+
 5. Reboot the device.
 
    The "HD" symbol on top of a phone screen typically indicates that the device is unlocked to VoLTE.
