@@ -8,7 +8,7 @@ tags:
   - "VoLTE"
 ---
 
-As we know,Redmi Note 4X (Qualcomm Snapdragon 625) actually supports three major Chinese carriers, China Mobile (CMCC), China Telecom(CT), and China Unicom(CU) VoLTE and Video Calling, but only CMCC is enabled in carrier config of MIUI offical ROM.Therefore, I would like to share how to  unlock VoLTE for CT and CU without root. First, it's necessary to update Redmi Note 4X with the latest  version [V11.0.2.0.NCFMIXM](https://xiaomirom.com/en/rom/redmi-note-4-mido-global-fastboot-recovery-rom/).
+As we know,Redmi Note 4X (Snapdragon 625) actually supports three major Chinese carriers, China Mobile (CMCC), China Telecom(CT), and China Unicom(CU) VoLTE and Video Calling, but only CMCC is enabled in carrier config of MIUI offical ROM.Therefore, I would like to share how to  unlock VoLTE for CT and CU without root. First, it's necessary to update Redmi Note 4X with the latest  version [V11.0.2.0.NCFMIXM](https://xiaomirom.com/en/rom/redmi-note-4-mido-global-fastboot-recovery-rom/).
 
 <!--more-->
 
