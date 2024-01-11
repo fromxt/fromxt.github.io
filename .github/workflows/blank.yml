@@ -3,13 +3,13 @@ name: github pages
 on:
   push:
     branches:
-    - source
+      - source
 
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v3
       # with:
       #   submodules: true
 
