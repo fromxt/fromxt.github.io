@@ -1,6 +1,6 @@
 ---
 title: "How to enable VoLTE on Xiaomi Redmi Note 4X (mido)"
-date: 2024-01-11T12:09:33+08:00
+date: 2024-01-10T12:09:33+08:00
 draft: true
 categories:
   - "computer"
