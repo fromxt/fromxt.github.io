@@ -118,17 +118,17 @@ Here are the most useful websites on the Internet that will make you smarter, in
 29. [Commands.dev](https://www.commands.dev/) - A searchable collection of commands from across the Web.
 
 ## Others
-1. [Socew](http://www.socew.cn/) - Free MP3 Music Downloads Site
+1. [PROXY](https://web.东方人.com) - proxy
 2. [Wallpaperscraft](https://wallpaperscraft.com) - Download all background images for free,supporting all sorts of resolution 
 3. [Openload](https://openload.co) - Give any user the opportunity to share any file(such as video)completly free !
-4. ~~[glyptodon.com](https://demo.glyptodon.com) -  Free 20 minutes Windows 10 Server 2016 trial~~
+4. [bear.cat](https://bear.cat/) -  Free 20 minutes Windows 10 Server 2016 trial
 5. [Trumpnews](http://www.trump-news.today) - An aggregation of headlines, tweets relating to Donald Trump. - http://trump-today.news/
 6. [Google-alternatives](https://restoreprivacy.com/google-alternatives/) - A list of alternatives to all Google products
 7. [Searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances) - List of public Searx instances
 8. [PHP Proxy](https://free.carrade.eu/) - A web sites powered by PHP-Proxy 5.10.0. - ~~https://52proxy.fun/~~ ~~- https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://proxy.emildeveloping.com/ - https://www.littlepotato.life/mirror/ - https://dz.9shi.cf/~~ --https://web.tanglu.me
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
-10. [Google Proxy](https://go-xyz.xyz/)- Google reverse proxy. https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://www.google.com
-11. [Rammerhead](https://frclan.montessorigiaocu.com) - Rammerhead Proxy.
+10. [Google Proxy](https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://www.google.com)- Google reverse proxy. 
+11. [NGINX Proxy](https://womginx.arph.org) - NGINX Proxy.
 12. [JSproxy](https://proxy.itprosec.com/) - jsproxy
 13. [D.tube](https://d.tube/) -A community powered video sharing platform 
 14. [Glorp](https://glorp.co/) - Visual search engine
@@ -145,4 +145,4 @@ Here are the most useful websites on the Internet that will make you smarter, in
 25. ~~[RedditBox](https://redditbox.us/) - View [Reddit](https://quickssh-hongkong-id01.lvps.net/hongkong/(S(qd34alprmjus0x0s3nekajch))/) on SSH or Telnet.~~
 26. [Whoogle](https://whoogle.sdf.org/) - It has Google results but Whoogle is more like Google.
 27. [Privacy Respecting Software_1](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) - List of privacy respecting services and alternatives to privative services
-28. [Rammerhead](https://edu.kolody.net/) - Rammerhead proxy browser.
+28. [Rammerhead](https://frclan.montessorigiaocu.com) - Rammerhead proxy browser.
