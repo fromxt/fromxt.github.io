@@ -38,6 +38,8 @@ Reference:
 1. https://xdaforums.com/f/xiaomi-redmi-note-4-snapdragon-roms-kernels-re.6145/
 
 2. https://xiaomirom.com/en/rom/redmi-note-4-mido-global-fastboot-recovery-rom/
+   
+3. https://pve-alist.lzyy.link/OneDrive/
 
 
 
