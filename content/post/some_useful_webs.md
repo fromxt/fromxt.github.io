@@ -125,7 +125,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 5. [Trumpnews](http://www.trump-news.today) - An aggregation of headlines, tweets relating to Donald Trump. - http://trump-today.news/
 6. [Google-alternatives](https://restoreprivacy.com/google-alternatives/) - A list of alternatives to all Google products
 7. [Searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances) - List of public Searx instances
-8. [PHP Proxy](https://free.carrade.eu/) - A web sites powered by PHP-Proxy 5.10.0. - ~~https://52proxy.fun/~~ ~~- https://birfied.com/birproxy/  - https://themaking.xyz/p/ - https://proxy.emildeveloping.com/ - https://www.littlepotato.life/mirror/ - https://dz.9shi.cf/~~ --https://web.tanglu.me
+8. [PHP Proxy](https://free.carrade.eu/) - A web sites powered by PHP-Proxy 5.10.0.  --https://web.tanglu.me
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
 10. [Google Proxy](https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://www.google.com)- Google reverse proxy. 
 11. [NGINX Proxy](https://womginx.arph.org) - NGINX Proxy.
@@ -142,7 +142,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 22. [ADS-B Exchange](https://tar1090.adsbexchange.com/?icao=7814fc) -Co-op of unfiltered flight data.
 23. [DNS](https://kb.adguard.com/en/general/dns-providers) - Known DNS Providers
 24. [TODAY’S FRONT PAGES](https://www.newseum.org/todaysfrontpages/) - Today’s Front Pages of News.
-25. ~~[RedditBox](https://redditbox.us/) - View [Reddit](https://quickssh-hongkong-id01.lvps.net/hongkong/(S(qd34alprmjus0x0s3nekajch))/) on SSH or Telnet.~~
+25. [Ruby](https://ruby.rubynetwork.tech/) - Rubynetwork.
 26. [Whoogle](https://whoogle.sdf.org/) - It has Google results but Whoogle is more like Google.
 27. [Privacy Respecting Software_1](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) - List of privacy respecting services and alternatives to privative services
 28. [Rammerhead](https://frclan.montessorigiaocu.com) - Rammerhead proxy browser.
