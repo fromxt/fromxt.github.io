@@ -41,6 +41,9 @@ Reference:
    
 3. https://pve-alist.lzyy.link/OneDrive/
 
+4. https://www.miscw.com/how-to-enable-volte-and-vowifi-on-xiaomi-smartphones-non-root-android-11-or-10-solved-41243.html
+
+
 
 
 
