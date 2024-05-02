@@ -25,7 +25,7 @@ The following steps:
 
 3. Update the modem firmware with TWRP
 
-   You can download the custom firmware [HMNote4X_V11.0.2.0_volte_modem](https://f000.backblazeb2.com/file/canicula/Redmi/HMNote4X_V11.0.2.0_volte_modem.zip) for Redmi Note 4X and copy to your device.
+   You can download the custom firmware [HMNote4X_V11.0.2.0_volte_modem](https://f000.backblazeb2.com/file/canicula/Redmi/HMNote4X_V11.0.2.0_volte_modem.zip) for Redmi Note 4X and copy to your device. By the way,under weak signal environments, the modem will not work any more.
 
 
 5. Reboot the device.
