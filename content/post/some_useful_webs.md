@@ -119,14 +119,14 @@ Here are the most useful websites on the Internet that will make you smarter, in
 29. [Commands.dev](https://www.commands.dev/) - A searchable collection of commands from across the Web.
 
 ## Others
-1. [PROXY](https://web.东方人.com) - proxy
+1. ~~[PROXY](https://web.东方人.com) - proxy~~
 2. [Wallpaperscraft](https://wallpaperscraft.com) - Download all background images for free,supporting all sorts of resolution 
 3. [Openload](https://openload.co) - Give any user the opportunity to share any file(such as video)completly free !
 4. [bear.cat](https://bear.cat/) -  Free 20 minutes Windows 10 Server 2016 trial
 5. [Trumpnews](http://www.trump-news.today) - An aggregation of headlines, tweets relating to Donald Trump. - http://trump-today.news/
 6. [Google-alternatives](https://restoreprivacy.com/google-alternatives/) - A list of alternatives to all Google products
 7. [Searx instances](https://github.com/asciimoo/searx/wiki/Searx-instances) - List of public Searx instances
-8. [PHP Proxy](https://free.carrade.eu/) - A web sites powered by PHP-Proxy 5.10.0.  --https://web.tanglu.me
+8. ~~[PHP Proxy](https://free.carrade.eu/) - A web sites powered by PHP-Proxy 5.10.0.  --https://web.tanglu.me~~
 9. [ThisPersonDoesNotExist.com](https://www.thispersondoesnotexist.com/) -  Uses AI to generate endless fake faces
 10. [Google Proxy](https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://www.google.com)- Google reverse proxy. 
 11. [NGINX Proxy](https://womginx.arph.org) - NGINX Proxy.
@@ -139,8 +139,8 @@ Here are the most useful websites on the Internet that will make you smarter, in
 18. [Seeres.com](https://seeres.com/) -  Private search.
 19. [ArXiv](https://arxiv.org/) - An open archive for scholarly articles in the fields of physics, mathematics, computer science.
 20. [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
-21. [Podder](https://podder.app)- Podder is a simple podcast player for both desktop and phones.
-22. [ADS-B Exchange](https://tar1090.adsbexchange.com/?icao=7814fc) -Co-op of unfiltered flight data.
+21. ~~[Podder](https://podder.app)- Podder is a simple podcast player for both desktop and phones.~~
+22. [ADS-B Exchange](https://tar1090.adsbexchange.com/) -Co-op of unfiltered flight data.
 23. [DNS](https://kb.adguard.com/en/general/dns-providers) - Known DNS Providers
 24. [TODAY’S FRONT PAGES](https://www.newseum.org/todaysfrontpages/) - Today’s Front Pages of News.
 25. [Ruby](https://ruby.rubynetwork.tech/) - Rubynetwork.
