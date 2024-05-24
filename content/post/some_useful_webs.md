@@ -149,3 +149,4 @@ Here are the most useful websites on the Internet that will make you smarter, in
 28. [4get.ca](https://4get.ca/)- Search proxy.
 29. [Github proxy](https://sciproxy.com/) - Github proxy.
 30. [Hearchco](https://hearch.co/) - Hearchco is a distributed and fast metasearch engine that respects your privacy.
+31. [Lightgo](https://lightgo.app/) - A fast, simple, and highly customizable web proxy.
