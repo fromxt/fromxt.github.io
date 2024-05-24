@@ -148,3 +148,4 @@ Here are the most useful websites on the Internet that will make you smarter, in
 27. [Privacy Respecting Software_1](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) - List of privacy respecting services and alternatives to privative services
 28. [4get.ca](https://4get.ca/)- Search proxy.
 29. [Github proxy](https://sciproxy.com/) - Github proxy.
+30. [Hearchco](https://hearch.co/) - Hearchco is a distributed and fast metasearch engine that respects your privacy.
