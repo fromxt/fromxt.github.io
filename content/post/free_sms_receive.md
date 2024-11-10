@@ -31,16 +31,8 @@ Many web services nowadays require a phone verification system. They send a veri
 - [online code network](https://www.zaixianjiema.com/) - united states united kingdom canada
 - [disposable sms network](https://www.oncesms.com/) - united states canada united kingdom
 - [us sms network](https://www.usduck.com/) - united states canada united kingdom
-- [Yunduanxin.net](https://yunduanxin.net/) - https://yunduanxin.net/
-- [Shejiinn.com](http://www.114sim.com) - http://www.shejiinn.com/
-- [Blacktel.io](https://www.blacktel.io/) - https://www.blacktel.io/
-- [Materialtools](https://www.materialtools.com/) - https://www.materialtools.com/
 - [Sms24.me](https://sms24.me/) - https://sms24.me/
-- [Turtle-sms](https://turtle-sms.xyz/) - https://turtle-sms.xyz/ 👍
-- [Temporary-phone-number](https://temporary-phone-number.com/) - https://temporary-phone-number.com/
-- [Bestsms.xyz](https://bestsms.xyz/) - https://bestsms.xyz/
-- [Clearcode.cn](https://clearcode.cn/) - https://clearcode.cn/
-- [Yunjisms.xyz](https://yunjisms.xyz/) - https://yunjisms.xyz/
+
 
 
 
