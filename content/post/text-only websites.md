@@ -74,16 +74,16 @@ https://www.hvper.com/
 - [Searx](https://searx.me/) - The search engine that respects your privacy
 - [Txtify](https://txtify.it/) - Convert web articles to plain text
 - [Darkread.io](https://www.darkread.io/) -- This website is very similar to outline.com.
-- [Seeres](https://seeres.com) - A Private Search.Engine by Google.
-- [Google mirror 1](https://pro.jsproxy.cyou/) - A reverser proxy for Google.
-- [Google mirror 2 ](https://proxy.justyy.com/) - A reverser proxy for Google.
+- ~~[Seeres](https://seeres.com) - A Private Search.Engine by Google.~~
+- ~~[Google mirror 1](https://pro.jsproxy.cyou/) - A reverser proxy for Google.~~~
+- ~~[Google mirror 2 ](https://proxy.justyy.com/) - A reverser proxy for Google.~~~
 - ~~[Cliqz](https://beta.cliqz.com/) - It’s built end-to-end from collecting, crawling, and analyzing data up to actually showing results all this with privacy by design.~~
 - [DevURLs](https://devurls.com/) - Read programming news from the most popular programming websites in one place.
 - [Wiby.me](https://wiby.me/) -A search engine for 'classic websites',which's simple and meets the criteria (not a lot js/css)
 - [Swisscows](https://swisscows.ch/) -Swisscows ist die datensichere Google-Alternative. 
 swisscows
-- [Runnaroo](https://www.runnaroo.com/) -A new search engine (runnaroo.com)
-- [Yetigogo.com](https://yetigogo.com/) -A news search engine,include the 100 most popular US news sites. Clutter-free and in real-time.
+- ~~[Runnaroo](https://www.runnaroo.com/) -A new search engine (runnaroo.com)~~
+- ~~[Yetigogo.com](https://yetigogo.com/) -A news search engine,include the 100 most popular US news sites. Clutter-free and in real-time.~~
 - ~~[Golinxy](https://golinxy.com/) -A search engine which creates feeds based on multiple input search phrases.~~
 
 ## License
