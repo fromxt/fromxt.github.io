@@ -24,7 +24,7 @@ Here are the most useful websites on the Internet that will make you smarter, in
 8. [Vivaldi](https://vivaldi.net/) - Webmail on Vivaldi.net.
 9. [Guerrillamail](https://www.guerrillamail.com/zh/) - Disposable Temporary E-Mail Address.
 10. [Mohmal](https://www.mohmal.com/zh) - Mohmal Temporary Disposable Email
-11. [Linshiyouxiang](http://www.linshiyouxiang.net/) - Temporary Disposable Email
+11. [vmail.dev](https://vmail.dev/) - Temporary Disposable Email
 12. [Temp-mail](https://temp-mail.org/) - Disposable email address service.
 13. [Throwawaymail](https://www.throwawaymail.com) -  Disposable email address service.
 14. [Mailinator](https://www.mailinator.com) -  A Web site that accepts emails for absolutely any address @mailinator.com
