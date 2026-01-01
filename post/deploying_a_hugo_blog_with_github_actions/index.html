@@ -1,0 +1,104 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge,chrome=1"><title>Deploying a Hugo Blog with GitHub Actions - Canary - Home page</title><meta name=renderer content="webkit"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1"><meta http-equiv=cache-control content="no-transform"><meta http-equiv=cache-control content="no-siteapp"><meta name=theme-color content="#f8f5ec"><meta name=msapplication-navbutton-color content="#f8f5ec"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="#f8f5ec"><meta name=author content="Canary"><meta name=description content="Recommend some awesome lite website"><meta name=keywords content="Hugo,Canary,even"><meta name=generator content="Hugo 0.119.0 with theme even"><link rel=canonical href=https://fromxt.github.io/post/deploying_a_hugo_blog_with_github_actions/><link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/manifest.json><link rel=mask-icon href=/safari-pinned-tab.svg color=#5bbad5><script async src=//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js></script>
+<link href=/dist/even.c2a46f00.min.css rel=stylesheet><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin=anonymous><meta property="og:title" content="Deploying a Hugo Blog with GitHub Actions"><meta property="og:description" content="Recommend some awesome lite website"><meta property="og:type" content="article"><meta property="og:url" content="https://fromxt.github.io/post/deploying_a_hugo_blog_with_github_actions/"><meta property="article:section" content="post"><meta property="article:published_time" content="2019-10-22T00:00:00+00:00"><meta property="article:modified_time" content="2019-10-23T23:46:51+08:00"><meta itemprop=name content="Deploying a Hugo Blog with GitHub Actions"><meta itemprop=description content="Recommend some awesome lite website"><meta itemprop=datePublished content="2019-10-22T00:00:00+00:00"><meta itemprop=dateModified content="2019-10-23T23:46:51+08:00"><meta itemprop=wordCount content="442"><meta itemprop=keywords content="Miscellaneous,Hugo,GitHub Actions,"><meta name=twitter:card content="summary"><meta name=twitter:title content="Deploying a Hugo Blog with GitHub Actions"><meta name=twitter:description content="Recommend some awesome lite website"><!--[if lte IE 9]><script src=https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js></script><![endif]--><!--[if lt IE 9]><script src=https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js></script>
+<script src=https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js></script><![endif]--></head><body><div id=mobile-navbar class=mobile-navbar><div class=mobile-header-logo><a href=/ class=logo>Canary</a></div><div class=mobile-navbar-icon><span></span>
+<span></span>
+<span></span></div></div><nav id=mobile-menu class="mobile-menu slideout-menu"><ul class=mobile-menu-list><a href=/><li class=mobile-menu-item>Home</li></a><a href=/post/><li class=mobile-menu-item>Archives</li></a><a href=/tags/><li class=mobile-menu-item>Tags</li></a><a href=/categories/><li class=mobile-menu-item>Categories</li></a></ul></nav><div class=container id=mobile-panel><header id=header class=header><div class=logo-wrapper><a href=/ class=logo>Canary</a></div><nav class=site-navbar><ul id=menu class=menu><li class=menu-item><a class=menu-item-link href=/>Home</a></li><li class=menu-item><a class=menu-item-link href=/post/>Archives</a></li><li class=menu-item><a class=menu-item-link href=/tags/>Tags</a></li><li class=menu-item><a class=menu-item-link href=/categories/>Categories</a></li></ul></nav></header><main id=main class=main><div class=content-wrapper><div id=content class=content><article class=post><header class=post-header><h1 class=post-title>Deploying a Hugo Blog with GitHub Actions</h1><div class=post-meta><span class=post-time>October 22, 2019</span><div class=post-category><a href=/categories/miscellaneous/>Miscellaneous</a></div><span class=more-meta>442 words</span>
+<span class=more-meta>3 mins read</span>
+<span id=busuanzi_container_page_pv class=more-meta><span id=busuanzi_value_page_pv><img src=/img/spinner.svg alt=spinner.svg></span> times read</span></div></header><div class=post-toc id=post-toc><h2 class=post-toc-title>Contents</h2><div class="post-toc-content always-active"><nav id=TableOfContents><ul><li><a href=#step-by-step-instructions>Step-by-step Instructions</a><ul><li><a href=#1--creat-a-new-usernamegithubio-repository>(1) Creat a new &lt;username>.github.io repository</a></li><li><a href=#2-add-ssh-deploy-key>(2) Add SSH deploy key</a></li><li><a href=#3-create-your-workflow>(3) Create your workflow</a></li><li><a href=#4-build-and-deployment>(4) Build and Deployment</a></li></ul></li><li><a href=#summary>Summary</a></li></ul></nav></div></div><div class=post-content><p>We already can use <a href=https://travis-ci.org>Travis-CI</a> and <a href=https://www.netlify.com>Netlify</a> to build and deploy Static Sites, Today we introduce a new way to automate and customize your workflows&ndash;GitHub Actions. But we’re just scratching the surface of what GitHub Actions can do. Once you get started, you’ll be able to build, package, release, update, and deploy your project in any language—on GitHub or any external system—without having to run code yourself.</p><p><a href=https://github.com/features/actions>Sign up for the limited public beta of GitHub Actions</a></p><h2 id=step-by-step-instructions>Step-by-step Instructions</h2><h3 id=1--creat-a-new-usernamegithubio-repository>(1) Creat a new &lt;username>.github.io repository</h3><p>This&rsquo;s the repository that will contain the fully rendered version of your Hugo website.For [User and Organization Pages sites] (<code>&lt;username>/&lt;username>.github.io</code> repository), we have to set <code>master</code> branch as our publishing branch.
+We should creat a new branch named &lsquo;source&rsquo; to store all markdown codes for blog.</p><p><img src=https://f000.backblazeb2.com/file/canicula/ImgURL/source+branch.png alt="source branch"></p><h3 id=2-add-ssh-deploy-key>(2) Add SSH deploy key</h3><p>Generate your deploy key with the following command.</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-sh data-lang=sh><span class=line><span class=cl>ssh-keygen -t rsa -b <span class=m>4096</span> -C <span class=s2>&#34;</span><span class=k>$(</span>git config user.email<span class=k>)</span><span class=s2>&#34;</span> -f master -N <span class=s2>&#34;&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1># You will get 2 files:</span>
+</span></span><span class=line><span class=cl><span class=c1>#   master.pub (public key)</span>
+</span></span><span class=line><span class=cl><span class=c1>#   master     (private key)</span>
+</span></span></code></pre></td></tr></table></div></div><blockquote><p><em>note: On Windows, we can use Git Bash, which is the Git command line too.</em></p></blockquote><p>Next, Go to <strong>Repository Settings</strong></p><ul><li>Go to <strong>Deploy Keys</strong> and add your public key with the <strong>Allow write access</strong></li><li>Go to <strong>Secrets</strong> and add your private key as <code>ACTIONS_DEPLOY_KEY</code></li></ul><table><thead><tr><th>Add your public key</th><th>Success</th></tr></thead><tbody><tr><td><img src=https://f000.backblazeb2.com/file/canicula/ImgURL/deploy-keys-1.jpg alt></td><td><img src=https://f000.backblazeb2.com/file/canicula/ImgURL/deploy-keys-2.jpg alt></td></tr></tbody></table><table><thead><tr><th>Add your private key</th><th>Success</th></tr></thead><tbody><tr><td><img src=https://f000.backblazeb2.com/file/canicula/ImgURL/secrets-1.jpg alt></td><td><img src=https://f000.backblazeb2.com/file/canicula/ImgURL/secrets-2.jpg alt></td></tr></tbody></table><h3 id=3-create-your-workflow>(3) Create your workflow</h3><p>Add your workflow setting YAML file <code>.github/workflows/main.yml</code> and push to the <code>source</code> branch.
+We can refer to the following project, and make some modifications.</p><h4 id=-repository-type---project>⭐️ Repository type - Project</h4><p>An example workflow for Hugo.</p><ul><li><a href=https://github.com/peaceiris/actions-hugo>peaceiris/actions-hugo: GitHub Actions for Hugo</a></li></ul><p><a href=https://github.com/peaceiris/actions-hugo><img src=https://gh-card.dev/repos/peaceiris/actions-hugo.svg?fullname alt="peaceiris/actions-hugo - GitHub"></a></p><p><img src="https://img.shields.io/github/release/peaceiris/actions-hugo.svg?label=peaceiris%2Factions-hugo" alt="peaceiris/actions-hugo latest version">
+<img src="https://img.shields.io/github/release/peaceiris/actions-gh-pages.svg?label=peaceiris%2Factions-gh-pages" alt="peaceiris/actions-gh-pages latest version"></p><p>Add a <code>.github/workflows/main.yml</code> file with content like the following:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span><span class=lnt>31
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-yaml data-lang=yaml><span class=line><span class=cl><span class=nt>name</span><span class=p>:</span><span class=w> </span><span class=l>github pages</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w></span><span class=nt>on</span><span class=p>:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>  </span><span class=nt>push</span><span class=p>:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>    </span><span class=nt>branches</span><span class=p>:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>    </span>- <span class=l>source</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w></span><span class=nt>jobs</span><span class=p>:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>  </span><span class=nt>build-deploy</span><span class=p>:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>    </span><span class=nt>runs-on</span><span class=p>:</span><span class=w> </span><span class=l>ubuntu-latest</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>    </span><span class=nt>steps</span><span class=p>:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>    </span>- <span class=nt>uses</span><span class=p>:</span><span class=w> </span><span class=l>actions/checkout@master</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>      </span><span class=c># with:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>      </span><span class=c>#   submodules: true</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>    </span>- <span class=nt>name</span><span class=p>:</span><span class=w> </span><span class=l>Setup Hugo</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>      </span><span class=nt>uses</span><span class=p>:</span><span class=w> </span><span class=l>peaceiris/actions-hugo@v2.2.2</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>      </span><span class=nt>with</span><span class=p>:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>        </span><span class=nt>hugo-version</span><span class=p>:</span><span class=w> </span><span class=s1>&#39;0.58.3&#39;</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>    </span>- <span class=nt>name</span><span class=p>:</span><span class=w> </span><span class=l>Build</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>      </span><span class=nt>run</span><span class=p>:</span><span class=w> </span><span class=l>hugo --gc --minify</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>    </span>- <span class=nt>name</span><span class=p>:</span><span class=w> </span><span class=l>Deploy</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>      </span><span class=nt>uses</span><span class=p>:</span><span class=w> </span><span class=l>peaceiris/actions-gh-pages@v2.5.0</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>      </span><span class=nt>env</span><span class=p>:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>        </span><span class=nt>ACTIONS_DEPLOY_KEY</span><span class=p>:</span><span class=w> </span><span class=l>${{ secrets.ACTIONS_DEPLOY_KEY }}</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>        </span><span class=nt>PUBLISH_BRANCH</span><span class=p>:</span><span class=w> </span><span class=l>master</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>        </span><span class=nt>PUBLISH_DIR</span><span class=p>:</span><span class=w> </span><span class=l>./public</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>     </span><span class=c>#with:</span><span class=w>
+</span></span></span><span class=line><span class=cl><span class=w>     </span><span class=c>#  keepFiles: true</span><span class=w>
+</span></span></span></code></pre></td></tr></table></div></div><p><em>Note:</em></p><p><em>1.push on &lsquo;source&rsquo; branch will trigger the workflow,fina/ly publish on &lsquo;master&rsquo; branch.</em></p><p><em>2.If you want the action to add new files but leave existing ones untouched, set the optional parameter <code>keepFiles</code> to <code>true</code>.</em></p><p>That&rsquo;s it. See the <a href=https://help.github.com/en/github/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions>action.yml</a> file for more information on the available configuration options.</p><h3 id=4-build-and-deployment>(4) Build and Deployment</h3><p><img src=https://f000.backblazeb2.com/file/canicula/ImgURL/deploy.png alt> |</p><h2 id=summary>Summary</h2><p>At this point, We have everything setup to automatically build and publish your site whenever you push to master.
+Happy blogging!</p></div><div class=post-copyright><p class=copyright-item><span class=item-title>Author</span>
+<span class=item-content>Canary</span></p><p class=copyright-item><span class=item-title>LastMod</span>
+<span class=item-content>October 23, 2019</span></p></div><footer class=post-footer><div class=post-tags><a href=/tags/miscellaneous/>Miscellaneous</a>
+<a href=/tags/hugo/>Hugo</a>
+<a href=/tags/github-actions/>GitHub Actions</a></div><nav class=post-nav><a class=prev href=/post/qr_code_generator/><i class="iconfont icon-left"></i>
+<span class="prev-text nav-default">QR Code Generator</span>
+<span class="prev-text nav-mobile">Prev</span></a>
+<a class=next href=/post/top_textbooks_for_data_structures/><span class="next-text nav-default">Top textbooks for data structures</span>
+<span class="next-text nav-mobile">Next</span>
+<i class="iconfont icon-right"></i></a></nav></footer></article></div></div></main><footer id=footer class=footer><div class=social-links><a href=https://www.google.com/ class="iconfont icon-google" title=google></a>
+<a href=https://github.com class="iconfont icon-github" title=github></a>
+<a href=https://fromxt.github.io/index.xml type=application/rss+xml class="iconfont icon-rss" title=rss></a></div><div class=copyright><span class=power-by>Powered by <a class=hexo-link href=https://gohugo.io>Hugo</a></span>
+<span class=division>|</span>
+<span class=theme-info>Theme -
+<a class=theme-link href=https://github.com/olOwOlo/hugo-theme-even>Even</a></span><div class=busuanzi-footer><span id=busuanzi_container_site_pv>site pv: <span id=busuanzi_value_site_pv><img src=/img/spinner.svg alt=spinner.svg></span></span>
+<span class=division>|</span>
+<span id=busuanzi_container_site_uv>site uv: <span id=busuanzi_value_site_uv><img src=/img/spinner.svg alt=spinner.svg></span></span></div><span class=copyright-year>&copy;
+2018 -
+2026
+<span class=heart><i class="iconfont icon-heart"></i></span>
+<span class=author>Canary</span></span></div></footer><div class=back-to-top id=back-to-top><i class="iconfont icon-up"></i></div></div><script src=https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin=anonymous></script>
+<script type=text/javascript src=/dist/even.26188efa.min.js></script></body></html>
