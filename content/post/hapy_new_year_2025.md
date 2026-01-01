@@ -1,4 +1,3 @@
-
 ---
 title: "Happy new year 2025"
 date: 2024-12-31T21:00:00+08:00
