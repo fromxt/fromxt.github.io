@@ -1,5 +1,5 @@
 ---
-title: "hhappy new year 2025"h
+title: "happy new year 2025"h
 date: 2024-12-31T21:00:00+08:00
 categories:
   - "Miscellaneous"
