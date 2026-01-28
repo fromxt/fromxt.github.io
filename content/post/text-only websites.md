@@ -23,7 +23,8 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 
 ## News
 
-- [Newsandrumors](https://newsandrumors.com/) - An alternative RSS reader and search engine for news and content 
+- [Newsandrumors](https://newsandrumors.com/) - An alternative RSS reader and search engine for news and content 、
+- [Kagi News](https://news.kagi.com/world/latest) - a privacy-focused, ad-free news created by Kagi.
 - [CNN Lite](http://lite.cnn.com/) - A lite version of CNN.com
 - [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
 - [POST Online Media](https://lite.poandpo.com/) - Breaking world news, latest headlines and stories from POST Online Media.
