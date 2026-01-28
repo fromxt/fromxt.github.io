@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://fromxt.github.io/sitemap.xml

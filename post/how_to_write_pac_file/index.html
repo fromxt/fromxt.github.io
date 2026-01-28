@@ -1,0 +1,106 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge,chrome=1"><title>How to write proxy PAC file - Canary - Home page</title><meta name=renderer content="webkit"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1"><meta http-equiv=cache-control content="no-transform"><meta http-equiv=cache-control content="no-siteapp"><meta name=theme-color content="#f8f5ec"><meta name=msapplication-navbutton-color content="#f8f5ec"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="#f8f5ec"><meta name=author content="Canary"><meta name=description content="Overview Proxy Auto-Configuration (PAC) is a method used by Web browsers to select a proxy for a given URL. The method for choosing a proxy is written as a JavaScript function contained in a PAC file. This file can be hosted locally or on a network. Browsers can be configured to use the file manually.
+How PAC Files Work Direct all traffic through the first proxy. If it is unreachable, use the second proxy."><meta name=keywords content="Hugo,Canary,even"><meta name=generator content="Hugo 0.119.0 with theme even"><link rel=canonical href=https://fromxt.github.io/post/how_to_write_pac_file/><link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/manifest.json><link rel=mask-icon href=/safari-pinned-tab.svg color=#5bbad5><script async src=//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js></script>
+<link href=/dist/even.c2a46f00.min.css rel=stylesheet><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin=anonymous><meta property="og:title" content="How to write proxy PAC file"><meta property="og:description" content="Overview Proxy Auto-Configuration (PAC) is a method used by Web browsers to select a proxy for a given URL. The method for choosing a proxy is written as a JavaScript function contained in a PAC file. This file can be hosted locally or on a network. Browsers can be configured to use the file manually.
+How PAC Files Work Direct all traffic through the first proxy. If it is unreachable, use the second proxy."><meta property="og:type" content="article"><meta property="og:url" content="https://fromxt.github.io/post/how_to_write_pac_file/"><meta property="article:section" content="post"><meta property="article:published_time" content="2021-05-29T14:34:30+08:00"><meta property="article:modified_time" content="2021-05-29T16:27:51+08:00"><meta itemprop=name content="How to write proxy PAC file"><meta itemprop=description content="Overview Proxy Auto-Configuration (PAC) is a method used by Web browsers to select a proxy for a given URL. The method for choosing a proxy is written as a JavaScript function contained in a PAC file. This file can be hosted locally or on a network. Browsers can be configured to use the file manually.
+How PAC Files Work Direct all traffic through the first proxy. If it is unreachable, use the second proxy."><meta itemprop=datePublished content="2021-05-29T14:34:30+08:00"><meta itemprop=dateModified content="2021-05-29T16:27:51+08:00"><meta itemprop=wordCount content="403"><meta itemprop=keywords content="proxy pac,"><meta name=twitter:card content="summary"><meta name=twitter:title content="How to write proxy PAC file"><meta name=twitter:description content="Overview Proxy Auto-Configuration (PAC) is a method used by Web browsers to select a proxy for a given URL. The method for choosing a proxy is written as a JavaScript function contained in a PAC file. This file can be hosted locally or on a network. Browsers can be configured to use the file manually.
+How PAC Files Work Direct all traffic through the first proxy. If it is unreachable, use the second proxy."><!--[if lte IE 9]><script src=https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js></script><![endif]--><!--[if lt IE 9]><script src=https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js></script>
+<script src=https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js></script><![endif]--></head><body><div id=mobile-navbar class=mobile-navbar><div class=mobile-header-logo><a href=/ class=logo>Canary</a></div><div class=mobile-navbar-icon><span></span>
+<span></span>
+<span></span></div></div><nav id=mobile-menu class="mobile-menu slideout-menu"><ul class=mobile-menu-list><a href=/><li class=mobile-menu-item>Home</li></a><a href=/post/><li class=mobile-menu-item>Archives</li></a><a href=/tags/><li class=mobile-menu-item>Tags</li></a><a href=/categories/><li class=mobile-menu-item>Categories</li></a></ul></nav><div class=container id=mobile-panel><header id=header class=header><div class=logo-wrapper><a href=/ class=logo>Canary</a></div><nav class=site-navbar><ul id=menu class=menu><li class=menu-item><a class=menu-item-link href=/>Home</a></li><li class=menu-item><a class=menu-item-link href=/post/>Archives</a></li><li class=menu-item><a class=menu-item-link href=/tags/>Tags</a></li><li class=menu-item><a class=menu-item-link href=/categories/>Categories</a></li></ul></nav></header><main id=main class=main><div class=content-wrapper><div id=content class=content><article class=post><header class=post-header><h1 class=post-title>How to write proxy PAC file</h1><div class=post-meta><span class=post-time>May 29, 2021</span><div class=post-category><a href=/categories/computer/>computer</a></div><span class=more-meta>403 words</span>
+<span class=more-meta>2 mins read</span>
+<span id=busuanzi_container_page_pv class=more-meta><span id=busuanzi_value_page_pv><img src=/img/spinner.svg alt=spinner.svg></span> times read</span></div></header><div class=post-toc id=post-toc><h2 class=post-toc-title>Contents</h2><div class="post-toc-content always-active"><nav id=TableOfContents></nav></div></div><div class=post-content><h1 id=overview>Overview</h1><p>Proxy Auto-Configuration (PAC) is a method used by Web browsers to select a proxy for a given URL. The method for choosing a proxy is written as a JavaScript function contained in a PAC file. This file can be hosted locally or on a network. Browsers can be configured to use the file manually.</p><h1 id=how-pac-files-work>How PAC Files Work</h1><ol><li>Direct all traffic through the first proxy. If it is unreachable, use the second proxy. If both are unavailable go direct:</li></ol><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-js data-lang=js><span class=line><span class=cl><span class=kd>function</span> <span class=nx>FindProxyForURL</span><span class=p>(</span><span class=nx>url</span><span class=p>,</span> <span class=nx>host</span><span class=p>)</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>   <span class=k>return</span> <span class=s2>&#34;PROXY proxy1.my.com:8080; PROXY
+</span></span></span><span class=line><span class=cl><span class=s2>   proxy2.my.com:8080; DIRECT&#34;</span><span class=p>;</span> <span class=p>}</span>
+</span></span></code></pre></td></tr></table></div></div><ol start=2><li>Direct HTTP traffic as in the first example, but send all HTTPS traffic direct:</li></ol><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-js data-lang=js><span class=line><span class=cl><span class=kd>function</span> <span class=nx>FindProxyForURL</span><span class=p>(</span><span class=nx>url</span><span class=p>,</span> <span class=nx>host</span><span class=p>)</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>   <span class=k>if</span> <span class=p>(</span><span class=nx>url</span><span class=p>.</span><span class=nx>substring</span><span class=p>(</span><span class=mi>0</span><span class=p>,</span><span class=mi>6</span><span class=p>)</span><span class=o>==</span><span class=s2>&#34;https:&#34;</span><span class=p>)</span> <span class=k>return</span> 
+</span></span><span class=line><span class=cl>   <span class=s2>&#34;DIRECT&#34;</span><span class=p>;</span> <span class=k>else</span> <span class=k>return</span> <span class=s2>&#34;PROXY
+</span></span></span><span class=line><span class=cl><span class=s2>   proxy1.my.com:8080; PROXY
+</span></span></span><span class=line><span class=cl><span class=s2>   proxy2.my.com:8080; DIRECT&#34;</span><span class=p>;</span> <span class=p>}</span>
+</span></span></code></pre></td></tr></table></div></div><ol start=3><li>Direct all traffic as in the first example, but send traffic for a given domain direct:</li></ol><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-js data-lang=js><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=kd>function</span> <span class=nx>FindProxyForURL</span><span class=p>(</span><span class=nx>url</span><span class=p>,</span> <span class=nx>host</span><span class=p>)</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>   <span class=k>if</span> <span class=p>(</span><span class=nx>host</span><span class=o>==</span><span class=s2>&#34;my.com&#34;</span><span class=p>)</span> <span class=k>return</span> <span class=s2>&#34;DIRECT&#34;</span><span class=p>;</span> <span class=k>else</span>
+</span></span><span class=line><span class=cl>   <span class=k>return</span> <span class=s2>&#34;PROXY proxy1.my.com:8080; PROXY
+</span></span></span><span class=line><span class=cl><span class=s2>   proxy2.my.com:8080; DIRECT&#34;</span><span class=p>;</span> <span class=p>}</span>
+</span></span></code></pre></td></tr></table></div></div><ol start=4><li>If the client computer is on the specified internal network, go through the proxy. Otherwise go direct:</li></ol><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-js data-lang=js><span class=line><span class=cl><span class=kd>function</span> <span class=nx>FindProxyForURL</span><span class=p>(</span><span class=nx>url</span><span class=p>,</span> <span class=nx>host</span><span class=p>)</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>   <span class=k>if</span> <span class=p>(</span><span class=nx>isInNet</span><span class=p>(</span><span class=nx>myIPaddress</span><span class=p>(),</span> <span class=s2>&#34;192.168.1.0&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>   <span class=s2>&#34;255.255.255.0&#34;</span><span class=p>))</span> <span class=k>return</span> <span class=s2>&#34;PROXY
+</span></span></span><span class=line><span class=cl><span class=s2>   proxy1.my.com:8080; PROXY 
+</span></span></span><span class=line><span class=cl><span class=s2>   proxy2.my.com:8080; DIRECT&#34;</span><span class=p>;</span> <span class=k>else</span> <span class=k>return</span>
+</span></span><span class=line><span class=cl>   <span class=s2>&#34;DIRECT&#34;</span><span class=p>;</span> <span class=p>}</span>
+</span></span></code></pre></td></tr></table></div></div><h1 id=example-pac-file>Example PAC File</h1><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-js data-lang=js><span class=line><span class=cl><span class=kd>function</span> <span class=nx>FindProxyForURL</span><span class=p>(</span><span class=nx>url</span><span class=p>,</span> <span class=nx>host</span><span class=p>)</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl><span class=c1>// Web sites you wish to go to direct and not through the Web Scanning Services. This 
+</span></span></span><span class=line><span class=cl><span class=c1></span><span class=nx>list</span> <span class=nx>would</span> <span class=nx>include</span> <span class=nx>internally</span> <span class=nx>hosted</span> <span class=nx>Web</span> <span class=nx>sites</span><span class=p>,</span> <span class=nx>intranets</span><span class=p>,</span> <span class=nx>and</span> <span class=nx>so</span> <span class=nx>on</span>
+</span></span><span class=line><span class=cl><span class=k>if</span> <span class=p>(</span><span class=nx>shExpMatch</span><span class=p>(</span><span class=nx>url</span><span class=p>,</span><span class=s2>&#34;*.somecompany.co.uk*&#34;</span><span class=p>)</span> <span class=o>||</span>
+</span></span><span class=line><span class=cl>   <span class=nx>shExpMatch</span><span class=p>(</span><span class=nx>url</span><span class=p>,</span><span class=s2>&#34;*.example.com*&#34;</span><span class=p>)</span> <span class=o>||</span>
+</span></span><span class=line><span class=cl>   <span class=nx>shExpMatch</span><span class=p>(</span><span class=nx>url</span><span class=p>,</span><span class=s2>&#34;*.anotherexample.com*&#34;</span><span class=p>))</span>
+</span></span><span class=line><span class=cl><span class=p>{</span> <span class=k>return</span> <span class=s2>&#34;DIRECT&#34;</span><span class=p>;</span> <span class=p>}</span>
+</span></span><span class=line><span class=cl><span class=c1>// Internal IP address ranges that you need to be able to go to directly
+</span></span></span><span class=line><span class=cl><span class=c1></span><span class=k>else</span> <span class=k>if</span><span class=p>(</span><span class=nx>isInNet</span><span class=p>(</span><span class=nx>host</span><span class=p>,</span> <span class=s2>&#34;xxx.xxx.xxx.xxx&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>   <span class=s2>&#34;255.255.0.0&#34;</span><span class=p>)</span> <span class=o>||</span>
+</span></span><span class=line><span class=cl><span class=nx>isInNet</span><span class=p>(</span><span class=nx>host</span><span class=p>,</span> <span class=s2>&#34;xxx.xxx.xxx.xxx&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>   <span class=s2>&#34;255.255.0.0&#34;</span><span class=p>)</span> <span class=o>||</span>
+</span></span><span class=line><span class=cl><span class=nx>isInNet</span> <span class=p>(</span><span class=nx>host</span><span class=p>,</span> <span class=s2>&#34;xxx.xxx.xxx.xxx&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>   <span class=s2>&#34;255.255.0.0&#34;</span><span class=p>))</span>
+</span></span><span class=line><span class=cl><span class=p>{</span> <span class=k>return</span> <span class=s2>&#34;DIRECT&#34;</span><span class=p>;</span> <span class=p>}</span>
+</span></span><span class=line><span class=cl><span class=c1>// Send all other HTTP HTTPS and FTP traffic to Web Services
+</span></span></span><span class=line><span class=cl><span class=c1></span><span class=k>else</span> <span class=p>{</span> <span class=k>return</span>
+</span></span><span class=line><span class=cl><span class=s2>&#34;PROXY proxy.example1.com:8080&#34;</span><span class=p>;</span> <span class=p>}</span> <span class=p>}</span>
+</span></span></code></pre></td></tr></table></div></div><h1 id=configuring-google-chrome-to-use-a-pac-file>Configuring Google Chrome to Use a PAC File</h1><ol><li><p>Open Google Chrome, open the Chrome menu, then click Settings. The Settings window appears.</p></li><li><p>Click Show advanced settings&mldr;. The Show advanced settings&mldr; window appears.</p></li><li><p>Go to Network and click Change proxy settings&mldr;. The Internet Properties window appears.</p></li><li><p>Click LAN settings. The Local Area Network (LAN) Settings window appears.</p></li><li><p>Select Use automatic configuration script and paste the PAC file URL that you copied in step 2.</p></li><li><p>Click OK to save the configuration.</p></li></ol><h1 id=the-reference>The reference</h1><ol><li><a href=https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_PAC_file#description>https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_PAC_file#description</a></li></ol></div><div class=post-copyright><p class=copyright-item><span class=item-title>Author</span>
+<span class=item-content>Canary</span></p><p class=copyright-item><span class=item-title>LastMod</span>
+<span class=item-content>May 29, 2021</span></p></div><footer class=post-footer><div class=post-tags><a href=/tags/proxy-pac/>proxy pac</a></div><nav class=post-nav><a class=prev href=/post/hapy_new_year_2022/><i class="iconfont icon-left"></i>
+<span class="prev-text nav-default">Happy New Year 2022</span>
+<span class="prev-text nav-mobile">Prev</span></a>
+<a class=next href=/post/alternatives_to_firefox_send/><span class="next-text nav-default">Alternatives to Firefox Send</span>
+<span class="next-text nav-mobile">Next</span>
+<i class="iconfont icon-right"></i></a></nav></footer></article></div></div></main><footer id=footer class=footer><div class=social-links><a href=https://www.google.com/ class="iconfont icon-google" title=google></a>
+<a href=https://github.com class="iconfont icon-github" title=github></a>
+<a href=https://fromxt.github.io/index.xml type=application/rss+xml class="iconfont icon-rss" title=rss></a></div><div class=copyright><span class=power-by>Powered by <a class=hexo-link href=https://gohugo.io>Hugo</a></span>
+<span class=division>|</span>
+<span class=theme-info>Theme -
+<a class=theme-link href=https://github.com/olOwOlo/hugo-theme-even>Even</a></span><div class=busuanzi-footer><span id=busuanzi_container_site_pv>site pv: <span id=busuanzi_value_site_pv><img src=/img/spinner.svg alt=spinner.svg></span></span>
+<span class=division>|</span>
+<span id=busuanzi_container_site_uv>site uv: <span id=busuanzi_value_site_uv><img src=/img/spinner.svg alt=spinner.svg></span></span></div><span class=copyright-year>&copy;
+2018 -
+2026
+<span class=heart><i class="iconfont icon-heart"></i></span>
+<span class=author>Canary</span></span></div></footer><div class=back-to-top id=back-to-top><i class="iconfont icon-up"></i></div></div><script src=https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin=anonymous></script>
+<script src=https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin=anonymous></script>
+<script type=text/javascript src=/dist/even.26188efa.min.js></script></body></html>

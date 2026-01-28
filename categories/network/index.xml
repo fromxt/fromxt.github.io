@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>network on Canary - Home page</title><link>https://fromxt.github.io/categories/network/</link><description>Recent content in network on Canary - Home page</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://fromxt.github.io/categories/network/index.xml" rel="self" type="application/rss+xml"/><item><title>Awesome Networking</title><link>https://fromxt.github.io/post/awesome-_networking/</link><pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate><guid>https://fromxt.github.io/post/awesome-_networking/</guid><description>Awesome Networking A curated list of awesome networking libraries, resources and shiny things.
+HTTP
+HTTP: The Definitive Guide HTTP/1.1 HTTP/2 draft High Performance Browser Networking TCP/IP
+TCP/IP Illustrated tcpdump Beej&amp;rsquo;s Guide to Network Programming The C10K problem Tornado Linux source code TCP Hybla DNS
+DNS Protocols and APIs
+SOCKS Protocol Version 5 tuntap NAT Android VpnService Network Extension Cryptography
+Cryptography Block cipher mode of operation libsodium - A modern and easy-to-use crypto library.</description></item></channel></rss>
